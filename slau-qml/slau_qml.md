@@ -11,35 +11,36 @@ layout: default1
   <img src="../slau-qml/images/6.png" height="320">
   <img src="../slau-qml/images/7.png" height="320">
 </p>
+
 <div class="carousel">
     <div class="carousel-inner">
         <input class="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden="" checked="checked">
         <div class="carousel-item">
-            <img src="../slau-qml/images/1.png">
+            <img src="../slau-qml/images/1.png" height="480"">
         </div>
         <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-            <img src="../slau-qml/images/2.png">
+            <img src="../slau-qml/images/2.png" height="480"">
         </div>
         <input class="carousel-open" type="radio" id="carousel-3" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-            <img src="../slau-qml/images/3.png">
+            <img src="../slau-qml/images/3.png" height="480"">
         </div>
 		<input class="carousel-open" type="radio" id="carousel-4" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-            <img src="../slau-qml/images/4.png">
+            <img src="../slau-qml/images/4.png" height="480"">
         </div>
 		<input class="carousel-open" type="radio" id="carousel-5" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-            <img src="../slau-qml/images/5.png">
+            <img src="../slau-qml/images/5.png" height="480"">
         </div>
 		<input class="carousel-open" type="radio" id="carousel-6" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-            <img src="../slau-qml/images/6.png">
+            <img src="../slau-qml/images/6.png" height="480"">
         </div>
 		<input class="carousel-open" type="radio" id="carousel-7" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-            <img src="../slau-qml/images/7.png">
+            <img src="../slau-qml/images/7.png" height="480"">
         </div>
         <label for="carousel-3" class="carousel-control prev control-1">‹</label>
         <label for="carousel-2" class="carousel-control next control-1">›</label>
@@ -80,4 +81,5 @@ layout: default1
         </ol>
     </div>
 </div>
+
 [back](../)
