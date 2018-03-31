@@ -340,13 +340,14 @@ list-style-image:url('../images/bullet7.png');
     opacity: 0;
     -webkit-transition: opacity 0.6s ease-out;
     transition: opacity 0.6s ease-out;
+	text-align:center;
 }
 
 .carousel-item img {
     display: block;
     height: auto;
     max-width: 50%;
-	text-align:center;
+	
 }
 
 .carousel-control {
