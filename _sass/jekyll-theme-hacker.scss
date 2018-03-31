@@ -345,7 +345,7 @@ list-style-image:url('../images/bullet7.png');
 .carousel-item img {
     display: block;
     height: auto;
-    max-width: 100%;
+    max-width: 50%;
 }
 
 .carousel-control {
@@ -383,10 +383,10 @@ list-style-image:url('../images/bullet7.png');
 
 #carousel-1:checked ~ .control-1,
 #carousel-2:checked ~ .control-2,
-#carousel-2:checked ~ .control-3,
-#carousel-2:checked ~ .control-4,
-#carousel-2:checked ~ .control-5,
-#carousel-2:checked ~ .control-6,
+#carousel-3:checked ~ .control-3,
+#carousel-4:checked ~ .control-4,
+#carousel-5:checked ~ .control-5,
+#carousel-6:checked ~ .control-6,
 #carousel-7:checked ~ .control-7 {
     display: block;
 }
@@ -427,17 +427,4 @@ list-style-image:url('../images/bullet7.png');
 #carousel-2:checked ~ .control-6 ~ .carousel-indicators li:nth-child(6) .carousel-bullet,
 #carousel-3:checked ~ .control-7 ~ .carousel-indicators li:nth-child(7) .carousel-bullet {
     color: #428bca;
-}
-
-#title {
-    width: 100%;
-    position: absolute;
-    padding: 0px;
-    margin: 0px auto;
-    text-align: center;
-    font-size: 27px;
-    color: rgba(255, 255, 255, 1);
-    font-family: 'Open Sans', sans-serif;
-    z-index: 9999;
-    text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.33), -1px 0px 2px rgba(255, 255, 255, 0);
 }
