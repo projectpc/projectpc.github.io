@@ -10,6 +10,7 @@
   <a href="#spoiler" title="Spoiler Filled Text"></a>
 </p>
 
+[](#spoiler "Spoiler Filled Text")
 
 [Описание](#0)    
 [Загрузка данных](#1)    
