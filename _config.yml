@@ -1,0 +1,7 @@
+theme: jekyll-theme-hacker
+title: [Решатель “СЛАУ” Qt C++ MATLAB]
+description: [Программа Решатель СЛАУ предназначена для регуляризации и решения систем линейных уравнений.]
+show_downloads : true
+github:
+  zip_url: https://drive.google.com/file/d/0BzY3lQZ86b0qQmNKZTltbUwyNFE/view?usp=sharing
+  tar_url: https://drive.google.com/file/d/0BzY3lQZ86b0qSm10VGxTOVY1N3M/view
