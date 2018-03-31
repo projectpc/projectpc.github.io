@@ -42,19 +42,19 @@ layout: default1
         <div class="carousel-item">
             <img src="../slau-qml/images/7.png" height="320" >
         </div>
-        <label for="carousel-3" class="carousel-control prev control-1">‹</label>
+        <label for="carousel-7" class="carousel-control prev control-1">‹</label>
         <label for="carousel-2" class="carousel-control next control-1">›</label>
         <label for="carousel-1" class="carousel-control prev control-2">‹</label>
         <label for="carousel-3" class="carousel-control next control-2">›</label>
         <label for="carousel-2" class="carousel-control prev control-3">‹</label>
-        <label for="carousel-1" class="carousel-control next control-3">›</label>
-		<label for="carousel-2" class="carousel-control prev control-4">‹</label>
-        <label for="carousel-1" class="carousel-control next control-4">›</label>
-		<label for="carousel-2" class="carousel-control prev control-5">‹</label>
-        <label for="carousel-1" class="carousel-control next control-5">›</label>
-		<label for="carousel-2" class="carousel-control prev control-6">‹</label>
-        <label for="carousel-1" class="carousel-control next control-6">›</label>
-		<label for="carousel-2" class="carousel-control prev control-7">‹</label>
+        <label for="carousel-4" class="carousel-control next control-3">›</label>
+		<label for="carousel-3" class="carousel-control prev control-4">‹</label>
+        <label for="carousel-5" class="carousel-control next control-4">›</label>
+		<label for="carousel-4" class="carousel-control prev control-5">‹</label>
+        <label for="carousel-6" class="carousel-control next control-5">›</label>
+		<label for="carousel-5" class="carousel-control prev control-6">‹</label>
+        <label for="carousel-7" class="carousel-control next control-6">›</label>
+		<label for="carousel-6" class="carousel-control prev control-7">‹</label>
         <label for="carousel-1" class="carousel-control next control-7">›</label>
         <ol class="carousel-indicators">
             <li>
