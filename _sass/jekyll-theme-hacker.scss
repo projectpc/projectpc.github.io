@@ -340,11 +340,10 @@ list-style-image:url('../images/bullet7.png');
     opacity: 0;
     -webkit-transition: opacity 0.6s ease-out;
     transition: opacity 0.6s ease-out;
-	text-align:center;
 }
 
 .carousel-item img {
-    display: block;
+    display: block; margin:0 auto;
     height: auto;
     max-width: 50%;
 	
@@ -430,9 +429,7 @@ list-style-image:url('../images/bullet7.png');
 #carousel-7:checked ~ .control-7 ~ .carousel-indicators li:nth-child(7) .carousel-bullet {
     color: #428bca;
 }
-p{
-text-align: center;
-}
-a[href="#center"] {
+
+a[img src=""] {
   text-align: center;
 }
