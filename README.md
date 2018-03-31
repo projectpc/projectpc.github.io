@@ -6,7 +6,7 @@
 
 </details>
 
-[](#center "Spoiler Filled Text")
+[](#center ![](./images/image001.png))
 
 [Описание](#0)    
 [Загрузка данных](#1)    
