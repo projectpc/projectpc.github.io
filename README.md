@@ -18,11 +18,11 @@ spoiler
         </div>
         <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-            <img src="./images/image005.png">
+            <img src="http://fakeimg.pl/2000x800/DA5930/fff/?text=JavaScript">
         </div>
         <input class="carousel-open" type="radio" id="carousel-3" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-            <img src="./images/image006.png">
+            <img src="./images/image004.png">
         </div>
         <label for="carousel-3" class="carousel-control prev control-1">‹</label>
         <label for="carousel-2" class="carousel-control next control-1">›</label>
