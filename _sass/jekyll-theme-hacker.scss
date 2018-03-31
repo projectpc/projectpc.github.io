@@ -315,4 +315,65 @@ list-style-image:url('../images/bullet7.png');
 }
 }
 
-
+//==============================================
+a[href="#spoiler"] >  input + .box > blockquote{
+	display: none;
+}
+a[href="#spoiler"]  input:checked + .box > blockquote {
+	display: block;
+}
+a[href="#spoiler"] >  input[type="checkbox"] {
+	cursor: pointer;
+	border-color:transparent!important;
+	border-style:none!important;
+	background:transparent none!important;
+	position:relative;z-index:1;
+	margin:-10px 0 -30px -230px;
+ }
+a[href="#spoiler"] >  input[type="checkbox"]:focus {
+	outline:none;	/* Убираем обводку в ИЕ8 при "фокусе" */
+}
+a[href="#spoiler"] span.close,
+a[href="#spoiler"] span.open{
+	padding-left:22px;
+	color: #00f!important;
+	text-decoration: underline;
+}
+a[href="#spoiler"] >  input +  .box > span.close {
+	display: none;
+}
+a[href="#spoiler"] >  input:checked +  .box > span.close {
+	background: url(http://st0.bbcorp.ru/img/minus.png) 4px 60% no-repeat;
+	display: inline;
+}
+a[href="#spoiler"] >  input:checked  + .box > span.open {
+	display: none;
+}
+a[href="#spoiler"] >  input +  .box >  span.open {
+	background: url(http://st0.bbcorp.ru/img/plus.png) 4px  60% no-repeat;
+	display: inline;
+}
+a[href="#spoiler"] blockquote,
+a[href="#spoiler"]{
+    padding:1em;
+    border-radius:15px;
+    -webkit-border-radius:15px;
+    -khtml-border-radius:15px;
+    -moz-border-radius:15px;
+    -o-border-radius:15px;
+    -ms-border-radius:15px;
+}
+a[href="#spoiler"] {
+    overflow-x:hidden;
+    box-shadow: 0px 3px 8px #808080;
+    border:#E5E5E5 solid 2px;
+    -webkit-box-shadow:0px 3px 8px #808080;
+    -khtml-box-shadow:0px 3px 8px #808080;
+    -moz-box-shadow:0px 3px 8px #808080;
+    -ms-box-shadow:0px 3px 8px #808080;
+}
+a[href="#spoiler"] blockquote {
+   margin-top:12px;
+   min-height: 23px;
+   border:#CDCDCD 2px dashed;
+}
