@@ -6,39 +6,6 @@
 
 </details>
 
-"spoiler"
-
-spoiler
-
-<div class="carousel">
-    <div class="carousel-inner">
-        <input class="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden="" checked="checked">
-        <div class="carousel-item">
-            <img src="./images/image004.png">
-        </div>
-        <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
-        <div class="carousel-item">
-            <img src="./images/image006.png">
-        </div>
-        <input class="carousel-open" type="radio" id="carousel-3" name="carousel" aria-hidden="true" hidden="">
-        <div class="carousel-item">
-            <img src="./images/image004.png">
-        </div>
-        
-        <ol class="carousel-indicators">
-            <li>
-                <label for="carousel-1" class="carousel-bullet">•</label>
-            </li>
-            <li>
-                <label for="carousel-2" class="carousel-bullet">•</label>
-            </li>
-            <li>
-                <label for="carousel-3" class="carousel-bullet">•</label>
-            </li>
-        </ol>
-    </div>
-</div>
-
 
 [Описание](#0)    
 [Загрузка данных](#1)    
@@ -82,9 +49,9 @@ _ _ _
 <a name="1"></a>
 ### Загрузка данных
 Для загрузки СЛАУ в меню «Файл» выбрать пункт меню «Загрузить СЛАУ» и выбрать файл с данными.
-<p align="center">
+
   <img src="./images/image004.png" >
-</p>
+
 
 Для построения графика готового решения выбрать пункт меню «Загрузить тестовые данные» и выбрать файл с результатами решения СЛАУ. После чего будет построен график.
 <a name="2"></a>
