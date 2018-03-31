@@ -18,7 +18,7 @@ spoiler
         </div>
         <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-            <img src="http://fakeimg.pl/2000x800/DA5930/fff/?text=JavaScript">
+            <img src="./images/image006.png">
         </div>
         <input class="carousel-open" type="radio" id="carousel-3" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
