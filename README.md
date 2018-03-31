@@ -10,9 +10,16 @@
 
 spoiler
 
-  <input type="checkbox"  id="spoiler2" /> 
-  <label for="spoiler2" >Spoiler</label>
- 
+<nav role="navigation">
+  <ul>
+    <li><a href="#">home</a></li>
+    <li><a href="#">about</a></li>
+    <li><a href="#">blog</a></li>
+    <li><a href="#">FAQs</a></li>
+    <li><a href="#">a link with a lot of text</a></li>
+    <!-- add or remove items -->
+  </ul>
+</nav>
 
 
 [Описание](#0)    
