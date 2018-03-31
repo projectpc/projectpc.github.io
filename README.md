@@ -1,6 +1,9 @@
 <details> 
-  <summary>Q1: What is the best Language in the World? </summary>
-   A1: JavaScript 
+  <summary>image</summary>
+   <p align="center">
+  <img src="./images/image007.png" >
+</p>
+
 </details>
 
 [Описание](#0)    
