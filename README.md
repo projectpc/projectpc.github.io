@@ -1,3 +1,8 @@
+<details> 
+  <summary>Q1: What is the best Language in the World? </summary>
+   A1: JavaScript 
+</details>
+
 [Описание](#0)    
 [Загрузка данных](#1)    
 [Настройка решателя СЛАУ](#2)    
