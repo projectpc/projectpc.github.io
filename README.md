@@ -6,9 +6,7 @@
 
 </details>
 
-<p>
-  <a href="#spoiler" title="Spoiler Filled Text"></a>
-</p>
+[spoiler]тут текст[/spoiler]
 
 [](#spoiler "Spoiler Filled Text")
 
