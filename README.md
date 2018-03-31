@@ -6,10 +6,27 @@
 
 </details>
 
-[](#spoiler "Spoiler Filled Text")
+"spoiler"
 
+spoiler
 
-[](#spoiler "Spoiler Filled Text")
+  <input type="checkbox"  id="spoiler2" /> 
+  <label for="spoiler2" >Spoiler</label>
+  <div class="spoiler">
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eu sodales tortor, posuere mattis nunc. Integer eget sapien ullamcorper diam mollis laoreet. Praesent dignissim id urna at malesuada. Etiam id nisl vitae ante vestibulum volutpat. 
+  <br/><br/>
+  Etiam congue, neque a commodo iaculis, nisl massa varius felis, eget commodo eros mauris vitae felis. Pellentesque sed nisi bibendum, faucibus lectus id, varius metus. Vestibulum lacinia vehicula justo, ut molestie magna tincidunt nec. Suspendisse sit amet sagittis enim.
+</div>
+<p style="text-align:center;">Contenido normal intercalado sin spoiler</p>
+  <input type="checkbox"  id="spoiler" /> 
+  <label for="spoiler">Spoiler</label>
+<div class="spoiler">
+  Una forma de esconder cierta información hasta que el usuario hace clic para visualizarla. Una forma de esconder cierta información hasta que el usuario hace clic para visualizarla.
+  <br/><br/>
+  <img style="display:block;margin: 0 auto;" src="http://lorempixel.com/400/100/technics"/>
+</div>
+<p style="text-align:center;">Contenido normal intercalado sin spoiler</p>
+
 
 [Описание](#0)    
 [Загрузка данных](#1)    
