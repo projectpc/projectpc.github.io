@@ -404,12 +404,13 @@ list-style-image:url('../images/bullet7.png');
     right: 0;
     text-align: center;
     z-index: 10;
+	transform: rotate(90deg);
 }
 
 .carousel-indicators li {
     display: inline-block;
     margin: 0 5px;
-	transform: rotate(90deg);
+	
 }
 
 .carousel-bullet {
