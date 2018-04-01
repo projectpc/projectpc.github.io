@@ -70,9 +70,9 @@ _ _ _
 ![](./images/image009.png)    
 При невозможности решить СЛАУ выбранным методом выводятся соответствующие информационные окна.
 <p align="center">
-  <img src="./images/image010.png"  height="125">
-  <img src="./images/image011.png" >
-  <img src="./images/image012.png" >
+  <img src="./images/image010.png"  height="125">    
+  <img src="./images/image011.png" >    
+  <img src="./images/image012.png" >    
 </p>
 
 <a name="4"></a>
