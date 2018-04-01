@@ -31,13 +31,11 @@ layout: default1
     <section class="container-gallery small-list-block-1 medium-list-block-3 big-list-block-6"  >
     
       <li class="item-gallery" >
-        <a href="#img1">
-          <img id = "foto" src="../slau-qml/images/2.png">
-        </a>
-        <a href="#" class="lightbox ease-animate" id="img1">
-        
+        <a href="#img2">
           <img src="../slau-qml/images/2.png">
-          
+        </a>
+        <a href="#" class="lightbox ease-animate" id="img2">
+          <img src="../slau-qml/images/2.png">
         </a>
       </li>
     </section>
