@@ -6,7 +6,19 @@ layout: default1
     <div class="carousel-inner">
         <input class="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden="" checked="checked">
         <div class="carousel-item">
-            <img src="../slau-qml/images/1.png" height="320" >
+            <section class="wrapper">
+    <section class="container-gallery small-list-block-1 medium-list-block-3 big-list-block-6">
+      <li class="item-gallery">
+        <a href="#img1">
+          <img src="../slau-qml/images/1.png">
+        </a>
+        <a href="#" class="lightbox ease-animate" id="img1">
+          <img src="../slau-qml/images/1.png">
+          <span>Hello!</span>
+        </a>
+      </li>
+    </section>
+  </section>
         </div>
         <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
