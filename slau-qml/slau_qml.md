@@ -87,7 +87,7 @@ layout: default1
         
       <li class="item-gallery">
         <a href="#img2">
-          <img src="../slau-qml/images/2.png">
+          <img src="../slau-qml/images/2.png" >
         </a>
         <a href="#" class="lightbox elastic-animate" id="img2">
           <img src="../slau-qml/images/2.png">
@@ -96,10 +96,10 @@ layout: default1
       
       <li class="item-gallery">
         <a href="#img3">
-          <img src="../slau-qml/images/3.png">
+          <img src="../slau-qml/images/3.png" height="320">
         </a>
         <a href="#" class="lightbox fade-animate" id="img3">
-          <img src="../slau-qml/images/3.png">
+          <img src="../slau-qml/images/3.png" height="320">
           <span>Bye Merry</span>
         </a>
       </li>
