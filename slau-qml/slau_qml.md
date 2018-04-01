@@ -73,5 +73,72 @@ layout: default1
 </div>    
     
     
+<section class="wrapper">
+    <section class="container-gallery small-list-block-1 medium-list-block-3 big-list-block-6">
+      <li class="item-gallery">
+        <a href="#img1">
+          <img src="../slau-qml/images/1.png">
+        </a>
+        <a href="#" class="lightbox ease-animate" id="img1">
+          <img src="../slau-qml/images/2.png">
+          <span>Hello!</span>
+        </a>
+      </li>
+        
+      <li class="item-gallery">
+        <a href="#img2">
+          <img src="../slau-qml/images/2.png">
+        </a>
+        <a href="#" class="lightbox elastic-animate" id="img2">
+          <img src="../slau-qml/images/2.png">
+        </a>
+      </li>
+      
+      <li class="item-gallery">
+        <a href="#img3">
+          <img src="../slau-qml/images/3.png">
+        </a>
+        <a href="#" class="lightbox fade-animate" id="img3">
+          <img src="../slau-qml/images/3.png">
+          <span>Bye Merry</span>
+        </a>
+      </li>
 
+      <li class="item-gallery">
+        <a href="#img4">
+          <img src="../slau-qml/images/4.png">
+        </a>
+        <a href="#" class="lightbox ease-animate" id="img4">
+          <img src="../slau-qml/images/4.png">
+        </a>
+      </li>
+
+      <li class="item-gallery">
+        <a href="#img5">
+          <img src="../slau-qml/images/5.png">
+        </a>
+        <a href="#" class="lightbox elastic-animate" id="img5">
+          <img src="../slau-qml/images/5.png">
+        </a>
+      </li>
+
+      <li class="item-gallery">
+        <a href="#img6">
+          <img src="../slau-qml/images/6.png">
+        </a>
+        <a href="#" class="lightbox fade-animate" id="img6">
+          <img src="../slau-qml/images/6.png">
+        </a>
+      </li>
+
+      <li class="item-gallery">
+        <a href="#img7">
+          <img src="../slau-qml/images/7.png">
+        </a>
+        <a href="#" class="lightbox ease-animate" id="img7">
+          <img src="../slau-qml/images/7.png">
+        </a>
+      </li>
+    </section>
+  </section>
 
