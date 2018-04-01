@@ -6,41 +6,33 @@ layout: default1
     <div class="carousel-inner">
         <input class="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden="" checked="checked">
         <div class="carousel-item">
-         
             <section class="wrapper">
-    <section class="container-gallery small-list-block-1 medium-list-block-3 big-list-block-6"  >
-    
-      <li class="item-gallery" >
-        <a href="#img1">
-          <img id = "foto" src="../slau-qml/images/1.png">
-        </a>
-        <a href="#" class="lightbox ease-animate" id="img1">
-        
-          <img src="../slau-qml/images/1.png">
-          
-        </a>
-      </li>
-    </section>
-    
-  </section>
-
+                <section class="container-gallery small-list-block-1 medium-list-block-3 big-list-block-6"  >
+                     <li class="item-gallery" >
+                         <a href="#img1">
+                             <img src="../slau-qml/images/1.png">
+                         </a>
+                         <a href="#" class="lightbox ease-animate" id="img1">
+                             <img src="../slau-qml/images/1.png">
+                         </a>
+                    </li>
+                 </section>
+             </section>
         </div>
         <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
             <section class="wrapper">
-    <section class="container-gallery small-list-block-1 medium-list-block-3 big-list-block-6"  >
-    
-      <li class="item-gallery" >
-        <a href="#img2">
-          <img src="../slau-qml/images/2.png">
-        </a>
-        <a href="#" class="lightbox ease-animate" id="img2">
-          <img src="../slau-qml/images/2.png">
-        </a>
-      </li>
-    </section>
-    
-  </section>
+                <section class="container-gallery small-list-block-1 medium-list-block-3 big-list-block-6"  >
+                     <li class="item-gallery" >
+                         <a href="#img2">
+                             <img src="../slau-qml/images/2.png">
+                         </a>
+                         <a href="#" class="lightbox ease-animate" id="img2">
+                             <img src="../slau-qml/images/2.png">
+                         </a>
+                    </li>
+                 </section>
+             </section>
         </div>
         <input class="carousel-open" type="radio" id="carousel-3" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
