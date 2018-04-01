@@ -8,9 +8,9 @@ layout: default1
         <div class="carousel-item">
             <section class="wrapper">
     <section class="container-gallery small-list-block-1 medium-list-block-3 big-list-block-6">
-      <li class="item-gallery" align="center">
+      <li class="item-gallery" >
         <a href="#img1">
-          <img src="../slau-qml/images/1.png">
+          <img src="../slau-qml/images/1.png" height="320">
         </a>
         <a href="#" class="lightbox ease-animate" id="img1">
           <img src="../slau-qml/images/1.png">
