@@ -77,7 +77,7 @@ layout: default1
     <section class="container-gallery small-list-block-1 medium-list-block-3 big-list-block-6">
       <li class="item-gallery">
         <a href="#img1">
-          <img src="../slau-qml/images/1.png" height="120">
+          <img src="../slau-qml/images/11.png" height="120">
         </a>
         <a href="#" class="lightbox ease-animate" id="img1">
           <img src="../slau-qml/images/1.png">
