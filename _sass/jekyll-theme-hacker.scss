@@ -408,7 +408,8 @@ list-style-image:url('../images/bullet7.png');
 
 .carousel-indicators li {
     display: inline-block;
-    margin: 0 50px;
+    margin: 0 5px;
+	transform: rotate(90deg);
 }
 
 .carousel-bullet {
@@ -417,7 +418,7 @@ list-style-image:url('../images/bullet7.png');
     display: block;
     font-size: 35px;
 	vertical-align: top; 
-	transform: rotate(90deg);
+	
 }
 
 .carousel-bullet:hover {
