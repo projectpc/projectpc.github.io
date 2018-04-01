@@ -274,6 +274,7 @@ ul li {
 list-style-image:url('../images/bullet7.png');
   font-size: 13px;
 }
+.carousel-item img {max-width: 35%;}
 }
 @media only screen and (min-width: 370px) and (max-width: 470px),
 only screen and (min-device-width: 370px) and (max-device-width: 470px) {
@@ -293,6 +294,7 @@ ul li {
 list-style-image:url('../images/bullet7.png');
   font-size: 10px;
 }
+.carousel-item img {max-width: 45%;}
 }
 @media only screen and (min-width: 320px) and (max-width: 370px),
 only screen and (min-device-width: 320px) and (max-device-width: 370px) {
@@ -313,6 +315,7 @@ ul li {
 list-style-image:url('../images/bullet7.png');
   font-size: 10px;
 }
+.carousel-item img {max-width: 50%;}
 }
 
 //==============================================
@@ -320,7 +323,7 @@ list-style-image:url('../images/bullet7.png');
 
 .carousel {
     position: relative;
-    box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.01);
+    box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.64);
     margin-top: 26px;
 }
 
