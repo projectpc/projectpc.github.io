@@ -399,10 +399,10 @@ list-style-image:url('../images/bullet7.png');
     margin: 0;
     padding: 0;
     position: absolute;
-    bottom: 2%;
-    left: 0;
+    //bottom: 40%;
+    left: 1;
     right: 0;
-    text-align: center;
+    text-align: right;
     z-index: 10;
 	top: 50%;
     transform: rotate(90deg) translateX(-13%);
@@ -411,7 +411,7 @@ list-style-image:url('../images/bullet7.png');
 
 .carousel-indicators li {
     display: inline-block;
-    margin: 0 1px;
+    margin:  0 10px;
 	
 }
 
