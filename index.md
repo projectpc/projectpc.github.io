@@ -36,7 +36,7 @@ _ _ _
 Создать новый текстовый документ matrix.txt и записать в него приведенную ниже СЛАУ в виде расширенной матрицы
 
 <details> 
-  <p align="center"><summary>Пример</summary></p>
+  <p align="center"><summary><font color="red">Пример</font></summary></p>
     <p align="center">
         <img src="./images/image001.png" >
     </p>
