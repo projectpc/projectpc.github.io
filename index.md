@@ -35,14 +35,14 @@ _ _ _
 Программа считывает данные из текстовых файлов (*.txt) которые подготавливает пользователь. Файл должен содержать СЛАУ в виде расширенной матрицы элементы которой разделены пробелами или табуляциями.    
 Создать новый текстовый документ matrix.txt и записать в него приведенную ниже СЛАУ в виде расширенной матрицы
 
-<details align="center"> 
+<details align="center"> <font color="red">
   <p><summary><font color="red">Пример</font></summary></p>
     <p align="center">
         <img src="./images/image001.png" >
     </p>
     <p align="center">
          <img src="./images/image003.png" >
-    </p>
+    </p></font>
 </details>
 
 <a name="1"></a>
