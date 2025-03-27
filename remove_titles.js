@@ -2,49 +2,51 @@
     'use strict';
 
     function startPlugin() {
-        window.remove_titles_plugin = true;
+        window.remove_all_text_plugin = true;
 
         function addPlugin() {
             Lampa.Lang.add({
-                settings_interface_remove_titles: {
-                    be: 'Выдаліць назвы',
-                    bg: 'Премахване на заглавия',
-                    cs: 'Odstranit názvy',
-                    en: 'Remove titles',
-                    he: 'הסר כותרות',
-                    pt: 'Remover títulos',
-                    ru: 'Удалить названия',
-                    uk: 'Видалити назви',
-                    zh: '移除标题'
+                settings_interface_remove_all_text: {
+                    be: 'Выдаліць увесь тэкст',
+                    bg: 'Премахване на всички текстове',
+                    cs: 'Odstranit veškerý text',
+                    en: 'Remove all text',
+                    he: 'הסר כל טקסט',
+                    pt: 'Remover todo o texto',
+                    ru: 'Удалить весь текст',
+                    uk: 'Видалити весь текст',
+                    zh: '移除所有文字'
                 }
             });
 
             Lampa.SettingsApi.addParam({
                 component: 'interface',
                 param: {
-                    name: 'remove_titles',
+                    name: 'remove_all_text',
                     type: 'switch',
                     "default": false
                 },
                 field: {
-                    name: Lampa.Lang.translate('settings_interface_remove_titles')
+                    name: Lampa.Lang.translate('settings_interface_remove_all_text')
                 },
                 onChange: function () {
-                    updateTitlesVisibility();
+                    updateTextVisibility();
                     Lampa.Layer.update();
                 }
             });
 
-            // Функция для скрытия/показа названий
-            function updateTitlesVisibility() {
-                const removeTitles = Lampa.Storage.field('remove_titles');
-                const style = $('#remove_titles_css');
+            // Функция для скрытия ВСЕГО текста под карточками
+            function updateTextVisibility() {
+                const removeAllText = Lampa.Storage.field('remove_all_text');
+                const style = $('#remove_all_text_css');
 
-                if (removeTitles) {
+                if (removeAllText) {
                     if (!style.length) {
-                        $('<style id="remove_titles_css">.card__name, .card__title, .title { display: none !important; }</style>').appendTo('head');
+                        $('<style id="remove_all_text_css">' +
+                          '.card__name, .card__title, .card__info, .title, .name, .card__year, .year, .card__subtitle { display: none !important; }' +
+                          '</style>').appendTo('head');
                     } else {
-                        style.html('.card__name, .card__title, .title { display: none !important; }');
+                        style.html('.card__name, .card__title, .card__info, .title, .name, .card__year, .year, .card__subtitle { display: none !important; }');
                     }
                 } else {
                     style.remove();
@@ -53,7 +55,7 @@
 
             // Обработка динамического контента
             const observer = new MutationObserver(() => {
-                updateTitlesVisibility();
+                updateTextVisibility();
             });
 
             observer.observe(document.body, {
@@ -62,7 +64,7 @@
             });
 
             // Инициализация при загрузке
-            updateTitlesVisibility();
+            updateTextVisibility();
         }
 
         if (window.appready) {
@@ -74,5 +76,5 @@
         }
     }
 
-    if (!window.remove_titles_plugin) startPlugin();
+    if (!window.remove_all_text_plugin) startPlugin();
 })();
