@@ -7,8 +7,8 @@
         function addPlugin() {
             Lampa.Lang.add({
                 settings_interface_remove_titles: {
-                    en: 'Remove titles',
-                    ru: 'Удалить названия'
+                    en: 'xxxxxxxxxxx',
+                    ru: 'ххххххххххх'
                 }
             });
 
@@ -23,8 +23,10 @@
                     name: Lampa.Lang.translate('settings_interface_remove_titles')
                 },
                 onChange: function () {
+					var name = Lampa.Controller.enabled().name;
                     updateTitlesVisibility();
                     Lampa.Layer.update();
+					Lampa.Controller.toggle(name);
                 }
             });
 
