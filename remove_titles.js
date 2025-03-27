@@ -2,52 +2,51 @@
     'use strict';
 
     function startPlugin() {
-        window.remove_titles_keep_year_plugin = true;
+        window.remove_all_text_plugin = true;
 
         function addPlugin() {
             Lampa.Lang.add({
-                settings_interface_remove_titles_keep_year: {
-                    be: 'Пакінуць толькі год',
-                    bg: 'Остави само годината',
-                    cs: 'Ponechat pouze rok',
-                    en: 'Keep only year',
-                    he: 'השאר רק שנה',
-                    pt: 'Manter apenas o ano',
-                    ru: 'Оставить только год',
-                    uk: 'Залишити тільки рік',
-                    zh: '仅保留年份'
+                settings_interface_remove_all_text: {
+                    be: 'Выдаліць увесь тэкст',
+                    bg: 'Премахване на всички текстове',
+                    cs: 'Odstranit veškerý text',
+                    en: 'Remove all text',
+                    he: 'הסר כל טקסט',
+                    pt: 'Remover todo o texto',
+                    ru: 'Удалить весь текст',
+                    uk: 'Видалити весь текст',
+                    zh: '移除所有文字'
                 }
             });
 
             Lampa.SettingsApi.addParam({
                 component: 'interface',
                 param: {
-                    name: 'remove_titles_keep_year',
+                    name: 'remove_all_text',
                     type: 'switch',
                     "default": false
                 },
                 field: {
-                    name: Lampa.Lang.translate('settings_interface_remove_titles_keep_year')
+                    name: Lampa.Lang.translate('settings_interface_remove_all_text')
                 },
                 onChange: function () {
-                    updateTitlesVisibility();
+                    updateTextVisibility();
                     Lampa.Layer.update();
                 }
             });
 
-            // Функция для скрытия всего текста, кроме года
-            function updateTitlesVisibility() {
-                const removeTitles = Lampa.Storage.field('remove_titles_keep_year');
-                const style = $('#remove_titles_keep_year_css');
+            // Функция для скрытия ВСЕГО текста под карточками
+            function updateTextVisibility() {
+                const removeAllText = Lampa.Storage.field('remove_all_text');
+                const style = $('#remove_all_text_css');
 
-                if (removeTitles) {
+                if (removeAllText) {
                     if (!style.length) {
-                        $('<style id="remove_titles_keep_year_css">' +
-                          '.card__name, .card__title, .card__info, .title, .name { display: none !important; }' + // Скрываем названия
-                          '.card__year, .year { display: block !important; }' + // Оставляем год
+                        $('<style id="remove_all_text_css">' +
+                          '.card__name, .card__title, .card__info, .title, .name, .card__year, .year, .card__subtitle { display: none !important; }' +
                           '</style>').appendTo('head');
                     } else {
-                        style.html('.card__name, .card__title, .card__info, .title, .name { display: none !important; } .card__year, .year { display: block !important; }');
+                        style.html('.card__name, .card__title, .card__info, .title, .name, .card__year, .year, .card__subtitle { display: none !important; }');
                     }
                 } else {
                     style.remove();
@@ -56,7 +55,7 @@
 
             // Обработка динамического контента
             const observer = new MutationObserver(() => {
-                updateTitlesVisibility();
+                updateTextVisibility();
             });
 
             observer.observe(document.body, {
@@ -65,7 +64,7 @@
             });
 
             // Инициализация при загрузке
-            updateTitlesVisibility();
+            updateTextVisibility();
         }
 
         if (window.appready) {
@@ -77,5 +76,5 @@
         }
     }
 
-    if (!window.remove_titles_keep_year_plugin) startPlugin();
+    if (!window.remove_all_text_plugin) startPlugin();
 })();
