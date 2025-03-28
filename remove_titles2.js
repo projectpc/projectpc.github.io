@@ -12,23 +12,27 @@
                 }
             });
 
-            Lampa.SettingsApi.addParam({
-                component: 'interface',
-                param: {
-                    name: 'interface_remove_titles',
-                    type: 'switch',
-                    "default": false
-                },
-                field: {
-                    name: Lampa.Lang.translate('settings_interface_remove_titles')
-                },
-                onChange: function () {
-					var name = Lampa.Controller.enabled().name;
-                    updateTitlesVisibility();
-                    Lampa.Layer.update();
-					Lampa.Controller.toggle(name);
-                }
-            });
+Lampa.SettingsApi.addParam({
+          component: 'interface',
+          param: {
+            name: 'interface_size_fixed',
+            type: 'select',
+            values: {
+			  '4': '4',
+              '5': '5',
+            },
+            "default": '4'
+          },
+          field: {
+            name: Lampa.Lang.translate('settings_interface_remove_titles')
+          },
+          onChange: function onChange() {
+            var name = Lampa.Controller.enabled().name;
+            Lampa.Layer.update();
+            Lampa.Controller.toggle(name);
+          }
+        });
+
 
             // Функция для скрытия/показа названий
             function updateTitlesVisibility() {
