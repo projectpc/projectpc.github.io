@@ -1,3 +1,4 @@
+name: "🇷🇺 Обход блокировки МТС"
 mixed-port: 7890
 allow-lan: true
 mode: rule
@@ -149,4 +150,5 @@ proxy-groups:
  
       
 rules:
+
   - MATCH,Proxy
