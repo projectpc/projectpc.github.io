@@ -20,7 +20,7 @@ dns:
     - 'localhost'
 
 proxies:
-  - name: 🇷🇺 Moscow RU-128
+  - name: 🇷🇺Bypass_1
     type: vless
     server: 46.243.235.119
     port: 8443
@@ -36,7 +36,7 @@ proxies:
       grpc-service-name: grpc
     client-fingerprint: chrome
 
-  - name: 🇷🇺 Moscow Россия 2 | Мобильный интернет
+  - name: 🇷🇺Bypass_2
     type: vless
     server: 51.250.106.64
     port: 443
@@ -52,7 +52,7 @@ proxies:
       grpc-service-name: xyz
     client-fingerprint: chrome
 
-  - name: 🇷🇺 Yandex — #50
+  - name: 🇷🇺Bypass_3
     type: vless
     server: 51.250.106.64
     port: 443
@@ -68,7 +68,7 @@ proxies:
       grpc-service-name: xyz
     client-fingerprint: chrome
 
-  - name: 🇷🇺 Yandex — #51
+  - name: 🇷🇺Bypass_4
     type: vless
     server: 51.250.106.64
     port: 443
@@ -84,7 +84,7 @@ proxies:
       grpc-service-name: xyz
     client-fingerprint: chrome
 
-  - name: 🇱🇹 Lithuania — #1017
+  - name: 🇱🇹Bypass_5
     type: vless
     server: 51.250.9.196
     port: 443
@@ -99,7 +99,7 @@ proxies:
       servername: api-maps.yandex.ru
     client-fingerprint: chrome
 
-  - name: 🇱🇹 Lithuania — #1018
+  - name: 🇱🇹Bypass_6
     type: vless
     server: 51.250.9.196
     port: 443
@@ -114,7 +114,7 @@ proxies:
       servername: api-maps.yandex.ru
     client-fingerprint: chrome
 
-  - name: 🇱🇹 Lithuania — #1020
+  - name: 🇱🇹Bypass_7
     type: vless
     server: 51.250.9.196
     port: 443
@@ -129,7 +129,7 @@ proxies:
       servername: api-maps.yandex.ru
     client-fingerprint: chrome
 
-  - name: 🇷🇺 Moscow Россия 2 | Мобильный интернет (2)
+  - name: 🇷🇺Bypass_8
     type: vless
     server: 51.250.106.64
     port: 443
@@ -145,7 +145,7 @@ proxies:
       grpc-service-name: xyz
     client-fingerprint: chrome
 
-  - name: 🇷🇺 Moscow Россия 1 | Мобильный интернет
+  - name: 🇷🇺Bypass_9
     type: vless
     server: 51.250.28.39
     port: 443
@@ -161,7 +161,7 @@ proxies:
       grpc-service-name: xyz
     client-fingerprint: chrome
 
-  - name: 🇩🇪 Обход | Универсальный #6
+  - name: 🇩🇪Bypass_10
     type: vless
     server: gpt-plus.vepene.site
     port: 443
@@ -176,7 +176,7 @@ proxies:
       servername: api-maps.yandex.ru
     client-fingerprint: chrome
 
-  - name: 📡CIDR📡🇷🇺 Россия 1 | Мобильный интернет
+  - name: 🇷🇺Bypass_11
     type: vless
     server: 51.250.28.39
     port: 443
@@ -192,7 +192,7 @@ proxies:
       grpc-service-name: xyz
     client-fingerprint: chrome
 
-  - name: 📡CIDR📡🇷🇺 Россия 2 | Мобильный интернет
+  - name: 🇷🇺Bypass_12
     type: vless
     server: 51.250.106.64
     port: 443
@@ -208,7 +208,7 @@ proxies:
       grpc-service-name: xyz
     client-fingerprint: chrome
 
-  - name: 🇩🇪 Обход | Универсальный #7
+  - name: 🇩🇪Bypass_13
     type: vless
     server: gpt-plus.vepene.site
     port: 8443
@@ -222,7 +222,7 @@ proxies:
       servername: api-maps.yandex.ru
     client-fingerprint: chrome
 
-  - name: 🇩🇪 Обход | Универсальный #6 (2)
+  - name: 🇩🇪Bypass_14
     type: vless
     server: gpt-plus.vepene.site
     port: 443
@@ -237,7 +237,7 @@ proxies:
       servername: api-maps.yandex.ru
     client-fingerprint: chrome
 
-  - name: 🇷🇺 Yandex — #49
+  - name: 🇷🇺Bypass_15
     type: vless
     server: 51.250.28.39
     port: 443
@@ -253,7 +253,7 @@ proxies:
       grpc-service-name: xyz
     client-fingerprint: chrome
 
-  - name: 🇷🇺 Yandex — #52
+  - name: 🇷🇺Bypass_16
     type: vless
     server: 51.250.28.39
     port: 443
@@ -269,7 +269,7 @@ proxies:
       grpc-service-name: xyz
     client-fingerprint: chrome
 
-  - name: 🇷🇺 GCN LLC — #176
+  - name: 🇷🇺Bypass_17
     type: vless
     server: 46.243.235.119
     port: 8443
@@ -285,7 +285,7 @@ proxies:
       grpc-service-name: grpc
     client-fingerprint: chrome
 
-  - name: 🇱🇹 Lithuania — #1038
+  - name: 🇱🇹Bypass_18
     type: vless
     server: 51.250.9.196
     port: 443
@@ -300,7 +300,7 @@ proxies:
       servername: api-maps.yandex.ru
     client-fingerprint: chrome
 
-  - name: 🇱🇹 Lithuania — #1039
+  - name: 🇱🇹Bypass_19
     type: vless
     server: 51.250.9.196
     port: 443
@@ -328,25 +328,25 @@ proxy-groups:
   - name: "🔵 Auto"
     type: url-test
     proxies:
-      - "🇷🇺 Moscow RU-128"
-      - "🇷🇺 Moscow Россия 2 | Мобильный интернет"
-      - "🇷🇺 Yandex — #50"
-      - "🇷🇺 Yandex — #51"
-      - "🇱🇹 Lithuania — #1017"
-      - "🇱🇹 Lithuania — #1018"
-      - "🇱🇹 Lithuania — #1020"
-      - "🇷🇺 Moscow Россия 2 | Мобильный интернет (2)"
-      - "🇷🇺 Moscow Россия 1 | Мобильный интернет"
-      - "🇩🇪 Обход | Универсальный #6"
-      - "📡CIDR📡🇷🇺 Россия 1 | Мобильный интернет"
-      - "📡CIDR📡🇷🇺 Россия 2 | Мобильный интернет"
-      - "🇩🇪 Обход | Универсальный #7"
-      - "🇩🇪 Обход | Универсальный #6 (2)"
-      - "🇷🇺 Yandex — #49"
-      - "🇷🇺 Yandex — #52"
-      - "🇷🇺 GCN LLC — #176"
-      - "🇱🇹 Lithuania — #1038"
-      - "🇱🇹 Lithuania — #1039"
+      - "🇷🇺Bypass_1"
+      - "🇷🇺Bypass_2"
+      - "🇷🇺Bypass_3"
+      - "🇷🇺Bypass_4"
+      - "🇱🇹Bypass_5"
+      - "🇱🇹Bypass_6"
+      - "🇱🇹Bypass_7"
+      - "🇷🇺Bypass_8"
+      - "🇷🇺Bypass_9"
+      - "🇩🇪Bypass_10"
+      - "🇷🇺Bypass_11"
+      - "🇷🇺Bypass_12"
+      - "🇩🇪Bypass_13"
+      - "🇩🇪Bypass_14"
+      - "🇷🇺Bypass_15"
+      - "🇷🇺Bypass_16"
+      - "🇷🇺Bypass_17"
+      - "🇱🇹Bypass_18"
+      - "🇱🇹Bypass_19"
     url: http://www.google.com/generate_204
     interval: 120
     tolerance: 500
@@ -356,25 +356,25 @@ proxy-groups:
     type: load-balance
     strategy: round-robin
     proxies:
-      - "🇷🇺 Moscow RU-128"
-      - "🇷🇺 Moscow Россия 2 | Мобильный интернет"
-      - "🇷🇺 Yandex — #50"
-      - "🇷🇺 Yandex — #51"
-      - "🇱🇹 Lithuania — #1017"
-      - "🇱🇹 Lithuania — #1018"
-      - "🇱🇹 Lithuania — #1020"
-      - "🇷🇺 Moscow Россия 2 | Мобильный интернет (2)"
-      - "🇷🇺 Moscow Россия 1 | Мобильный интернет"
-      - "🇩🇪 Обход | Универсальный #6"
-      - "📡CIDR📡🇷🇺 Россия 1 | Мобильный интернет"
-      - "📡CIDR📡🇷🇺 Россия 2 | Мобильный интернет"
-      - "🇩🇪 Обход | Универсальный #7"
-      - "🇩🇪 Обход | Универсальный #6 (2)"
-      - "🇷🇺 Yandex — #49"
-      - "🇷🇺 Yandex — #52"
-      - "🇷🇺 GCN LLC — #176"
-      - "🇱🇹 Lithuania — #1038"
-      - "🇱🇹 Lithuania — #1039"
+      - "🇷🇺Bypass_1"
+      - "🇷🇺Bypass_2"
+      - "🇷🇺Bypass_3"
+      - "🇷🇺Bypass_4"
+      - "🇱🇹Bypass_5"
+      - "🇱🇹Bypass_6"
+      - "🇱🇹Bypass_7"
+      - "🇷🇺Bypass_8"
+      - "🇷🇺Bypass_9"
+      - "🇩🇪Bypass_10"
+      - "🇷🇺Bypass_11"
+      - "🇷🇺Bypass_12"
+      - "🇩🇪Bypass_13"
+      - "🇩🇪Bypass_14"
+      - "🇷🇺Bypass_15"
+      - "🇷🇺Bypass_16"
+      - "🇷🇺Bypass_17"
+      - "🇱🇹Bypass_18"
+      - "🇱🇹Bypass_19"
     url: http://www.google.com/generate_204
     interval: 120
 
@@ -382,25 +382,25 @@ proxy-groups:
   - name: "🟡 Fallback"
     type: fallback
     proxies:
-      - "🇷🇺 Moscow RU-128"
-      - "🇷🇺 Moscow Россия 2 | Мобильный интернет"
-      - "🇷🇺 Yandex — #50"
-      - "🇷🇺 Yandex — #51"
-      - "🇱🇹 Lithuania — #1017"
-      - "🇱🇹 Lithuania — #1018"
-      - "🇱🇹 Lithuania — #1020"
-      - "🇷🇺 Moscow Россия 2 | Мобильный интернет (2)"
-      - "🇷🇺 Moscow Россия 1 | Мобильный интернет"
-      - "🇩🇪 Обход | Универсальный #6"
-      - "📡CIDR📡🇷🇺 Россия 1 | Мобильный интернет"
-      - "📡CIDR📡🇷🇺 Россия 2 | Мобильный интернет"
-      - "🇩🇪 Обход | Универсальный #7"
-      - "🇩🇪 Обход | Универсальный #6 (2)"
-      - "🇷🇺 Yandex — #49"
-      - "🇷🇺 Yandex — #52"
-      - "🇷🇺 GCN LLC — #176"
-      - "🇱🇹 Lithuania — #1038"
-      - "🇱🇹 Lithuania — #1039"
+      - "🇷🇺Bypass_1"
+      - "🇷🇺Bypass_2"
+      - "🇷🇺Bypass_3"
+      - "🇷🇺Bypass_4"
+      - "🇱🇹Bypass_5"
+      - "🇱🇹Bypass_6"
+      - "🇱🇹Bypass_7"
+      - "🇷🇺Bypass_8"
+      - "🇷🇺Bypass_9"
+      - "🇩🇪Bypass_10"
+      - "🇷🇺Bypass_11"
+      - "🇷🇺Bypass_12"
+      - "🇩🇪Bypass_13"
+      - "🇩🇪Bypass_14"
+      - "🇷🇺Bypass_15"
+      - "🇷🇺Bypass_16"
+      - "🇷🇺Bypass_17"
+      - "🇱🇹Bypass_18"
+      - "🇱🇹Bypass_19"
     url: http://www.google.com/generate_204
     interval: 120
 
