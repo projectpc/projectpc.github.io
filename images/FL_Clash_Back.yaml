@@ -1,0 +1,154 @@
+name: "🇷🇺 Обход блокировки МТС"
+mixed-port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+external-controller: 127.0.0.1:9090
+
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: fake-ip
+  nameserver:
+    - 1.1.1.1
+    - 8.8.8.8
+  fallback:
+    - tls://1.1.1.1:853
+    - tls://8.8.8.8:853
+  fake-ip-filter:
+    - '*.lan'
+    - 'localhost'
+
+
+proxies:
+  - name: 🇷🇺Bypass_1
+    type: vless
+    server: 95.163.251.134         
+    port: 4249
+    uuid: cf97c9a9-441e-43e1-9bd2-f66a198cd87b
+    network: tcp
+    udp: true
+    tls: true
+    flow: xtls-rprx-vision 
+    reality-opts:
+      public-key: V-xgtMFjsvrDtv6kpKMwfhhIpFMOzkHmqscS9pO3wy0
+      short-id: a20d3ed244c76426
+      spider-x: /                  
+    servername: eh.vk.com
+    client-fingerprint: chrome
+
+  - name: 🇷🇺Bypass_2
+    type: vless
+    server: 95.163.250.91      
+    port: 4249
+    uuid: cf97c9a9-441e-43e1-9bd2-f66a198cd87b
+    network: tcp
+    udp: true
+    tls: true
+    flow: xtls-rprx-vision 
+    reality-opts:
+      public-key: qKDDfmvDvBgtUqhSnJf8OFDCaBPZ1Mr0GKGZyATtggo
+      short-id: a20d3ed244c76426
+      spider-x: /                  
+    servername: eh.vk.com
+    client-fingerprint: chrome
+
+  - name: 🇷🇺Bypass_3
+    type: vless
+    server: 95.163.250.202      
+    port: 4249
+    uuid: cf97c9a9-441e-43e1-9bd2-f66a198cd87b
+    network: tcp
+    udp: true
+    tls: true
+    flow: xtls-rprx-vision 
+    reality-opts:
+      public-key: 3KrwMUnneLj18P_X4yiWTsWLJb4nGjIult-0x3MZWiU
+      short-id: a20d3ed244c76426
+      spider-x: /                  
+    servername: eh.vk.com
+    client-fingerprint: chrome
+
+  - name: 🇷🇺Bypass_4
+    type: vless
+    server: 95.163.250.191      
+    port: 443
+    uuid: cf97c9a9-441e-43e1-9bd2-f66a198cd87b
+    network: tcp
+    udp: true
+    tls: true
+    flow: xtls-rprx-vision 
+    reality-opts:
+      public-key: TAeaJnhw4Uzrm_QwKWhre2eUVrtfI48usYi53JDG_FI
+      short-id: e6948cf2ed017370
+      spider-x: /                  
+    servername: sun6-21.userapi.com
+    client-fingerprint: chrome
+
+  - name: 🇷🇺Bypass_5
+    type: vless
+    server: 95.163.250.191         
+    port: 4249
+    uuid: cf97c9a9-441e-43e1-9bd2-f66a198cd87b
+    network: tcp
+    udp: true
+    tls: true
+    flow: xtls-rprx-vision 
+    reality-opts:
+      public-key: qKDDfmvDvBgtUqhSnJf8OFDCaBPZ1Mr0GKGZyATtggo
+      short-id: a20d3ed244c76426
+      spider-x: /                  
+    servername: eh.vk.com
+    client-fingerprint: chrome
+
+# 🔴 Основная группа — выбор режима
+proxy-groups:
+  - name: "Proxy"
+    type: select
+    proxies:
+      - "🔵 Auto"
+      - "🟢 Balance"
+      - "🟡 Fallback"
+
+# 🔵 Автовыбор по пингу
+  - name: "🔵 Auto"
+    type: url-test
+    proxies:
+      - "🇷🇺Bypass_1"
+      - "🇷🇺Bypass_2"
+      - "🇷🇺Bypass_3"
+      - "🇷🇺Bypass_4"
+      - "🇷🇺Bypass_5"
+    url: http://www.google.com/generate_204
+    interval: 120
+    tolerance: 500
+
+# 🟢 Балансировка (раскидывает соединения)
+  - name: "🟢 Balance"
+    type: load-balance
+    strategy: round-robin
+    proxies:
+      - "🇷🇺Bypass_1"
+      - "🇷🇺Bypass_2"
+      - "🇷🇺Bypass_3"
+      - "🇷🇺Bypass_4"
+      - "🇷🇺Bypass_5"
+    url: http://www.google.com/generate_204
+    interval: 120
+
+# 🟡 Fallback (резерв)
+  - name: "🟡 Fallback"
+    type: fallback
+    proxies:
+      - "🇷🇺Bypass_1"
+      - "🇷🇺Bypass_2"
+      - "🇷🇺Bypass_3"
+      - "🇷🇺Bypass_4"
+      - "🇷🇺Bypass_5"
+    url: http://www.google.com/generate_204
+    interval: 120
+ 
+      
+rules:
+
+  - MATCH,Proxy
