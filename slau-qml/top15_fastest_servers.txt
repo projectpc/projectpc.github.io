@@ -1,15 +1,15 @@
-vless://75807638-6f19-07d0-ae08-38492ee85c88@5.178.87.140:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#1685 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-vless://75807638-6f19-07d0-ae08-38492ee85c88@188.246.226.142:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2320
-vless://75807638-6f19-07d0-ae08-38492ee85c88@92.53.90.237:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#3009 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-vless://75807638-6f19-07d0-ae08-38492ee85c88@80.249.131.172:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#2513 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-vless://75807638-6f19-07d0-ae08-38492ee85c88@80.93.187.2:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#0741 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#3357 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.96:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#1094 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-vless://75807638-6f19-07d0-ae08-38492ee85c88@95.213.143.166:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#1323 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-vless://75807638-6f19-07d0-ae08-38492ee85c88@5.188.158.225:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#0512 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-vless://75807638-6f19-07d0-ae08-38492ee85c88@91.206.14.229:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#1046 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-vless://75807638-6f19-07d0-ae08-38492ee85c88@188.246.226.142:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2319
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.71:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#1047 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.197.3:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#1560 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-vless://8af50b51-65ee-4416-b9ba-66d76550f300@151.236.114.143:8443?encryption=none&type=grpc&security=reality&mode=multi&fp=chrome&sni=media.mediavitrina.ru&pbk=UsIT-zjeviusx9Av1bItm6yZiZCW56J1P1zvoQAOpU0&sid=0123456789abcdef#%F0%9F%87%B7%F0%9F%87%BA%20node%20%E2%80%94%20%2313
-vless://b960ed61-d7b0-03ef-a39f-484726e2ad66@eu.bridge.raw-srv.org:443?security=reality&sni=eu.bridge.raw-srv.org&fp=firefox&pbk=HsKBZVsE7puWHs8AzpHhf5eEwj0imv51at6GRRmLs0A&sid=54150a1d4a31894b&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#3374 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.3:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#1996 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@80.93.187.2:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#0750 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://8e86097f-bcfd-4b3e-89f6-e2ea2518575b@z01b9fq55-1mmi.ru-a1.y-tun.com:8443?type=tcp&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=qq&pbk=ZSzB9TQPGNcCiC0WLmciF5Jc8doJDvdRgbqTi8SCoEM&sid=a1b2c3d4e5f6789a&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20CDN
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.23:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#1891 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@188.246.226.142:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#1657 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.249.96:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#1103 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.71:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2311
+vless://75807638-6f19-07d0-ae08-38492ee85c88@82.202.197.3:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#1572 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@5.178.87.140:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#1697 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.55:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#2478 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@188.246.226.14:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#1949 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.71:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2310
+vless://75807638-6f19-07d0-ae08-38492ee85c88@91.206.14.229:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#1055 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@80.249.131.172:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#2527 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
