@@ -1,15 +1,15 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#6421.%20SS%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#7123.%20%F0%9F%87%AC%F0%9F%87%A7%20SS%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.148:8080#7029.%20%F0%9F%87%AC%F0%9F%87%A7%20SS%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#1841 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQzBHYmlDazY3SzhuSERhREhtWUlY@159.223.236.36:19582#7075.%20%F0%9F%87%B3%F0%9F%87%B1%20SS%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:8080#1844 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#1800 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#6995.%20SS%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.189:8080#1455 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://8f59feef-aab9-4e0b-924c-2a31bb8f446f@95.85.248.67:30086?type=grpc&headerType=none&security=none&encryption=none&serviceName=gprc&mode=gun#3581.%20%F0%9F%87%B3%F0%9F%87%B1%20VLESS%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#0967 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#1011 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#7006.%20SS%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#7002.%20SS%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#6187.%20%F0%9F%87%B3%F0%9F%87%B1%20SS%20%7C%20TG%3A%20%40wlrustg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RW96aDRwc2RwcXl5MWs5VTV0eWtNRkY1@83.166.250.6:50529#2116 | 🇷🇺 Russia | SS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.35:52006?flow=xtls-rprx-vision&fp=chrome&insecure=1&security=tls&sni=cl-ru-2.edgeflux.ru&type=tcp#2899.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20cl-ru-2.edgeflux.ru%20%7C%20TG%3A%20%40wlrustg
+vless://d428091c-e6eb-48f9-9a07-b44eb886ac90@217.18.61.215:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=mydogcollections.com&pbk=RsG53RnTZKpPwbKt0mnj3963DinwNFHpk3eWaHH6oG4&sid=653253254366&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%2367
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.18:52006?type=tcp&security=tls&flow=xtls-rprx-vision&sni=cl-ru-1.edgeflux.ru&host=cl-ru-1.edgeflux.ru#0637 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.35:52006?type=tcp&security=tls&flow=xtls-rprx-vision-udp443&fp=chrome&sni=cl-ru-2.edgeflux.ru#2122 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.12:52006?type=tcp&security=tls&flow=xtls-rprx-vision&sni=cl-ru-1.edgeflux.ru&host=cl-ru-1.edgeflux.ru#0517 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@212.41.8.216:52006?type=tcp&encryption=none&headerType=none&quicSecurity=none&security=tls&flow=xtls-rprx-vision&fp=chrome&insecure=1&sni=212.41.8.216#2908.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20212.41.8.216%20%7C%20TG%3A%20%40wlrustg
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.20:52006?type=tcp&security=tls&flow=xtls-rprx-vision&sni=cl-ru-1.edgeflux.ru&host=cl-ru-1.edgeflux.ru#1334 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.15:52006?allowInsecure=1&sni=cl-ru-1.edgeflux.ru&flow=xtls-rprx-vision-udp443&security=tls#3293.%20VLESS%20%7C%20SNI%3A%20cl-ru-1.edgeflux.ru%20%7C%20TG%3A%20%40wlrustg%20%7C%20Thanks%3A%20%40rkp_channel
+vless://d428091c-e6eb-48f9-9a07-b44eb886ac90@217.18.61.243:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=mydogcollections.com&pbk=RsG53RnTZKpPwbKt0mnj3963DinwNFHpk3eWaHH6oG4&sid=653253254366#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=cluster-russia-1.firstvideocdn.ru&fp=chrome&flow=xtls-rprx-vision&insecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://a0e4e8b6-0518-4f19-803e-eece71583392@84.54.39.184:2083?mode=gun&type=grpc&security=reality&sni=goya.rutube.ru&fp=qq&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&serviceName=UpdateService#3286.%20VLESS%20%7C%20SNI%3A%20goya.rutube.ru%20%7C%20TG%3A%20%40wlrustg%20%7C%20Thanks%3A%20%40rkp_channel
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.182.20:52006?type=tcp&headerType=none&security=tls&encryption=none&sni=cl-ru-1.edgeflux.ru&host=cl-ru-1.edgeflux.ru&flow=xtls-rprx-vision&insecure=1#2889.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20cl-ru-1.edgeflux.ru%20%7C%20TG%3A%20%40wlrustg
+vless://75807638-6f19-07d0-ae08-38492ee85c88@212.41.8.216:52006?type=tcp&headerType=none&security=tls&encryption=none&fp=chrome&flow=xtls-rprx-vision-udp443&insecure=1#2910.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20TG%3A%20%40wlrustg
+vless://5bdfca2e-318a-43e7-bd8b-b97013b450a5@alpha-ru-02.kakranshevpn.com:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3gdkHQxCQI5PG3VXqLvAJ8PvYLEj8x1H-NUGGOODgw0&sid=c0e5e576c043f2ee&sni=ya.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20ya.ru
