@@ -1,20 +1,20 @@
-ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA@45.140.169.216:30112#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B12%5D%20%20MIFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@72.56.235.141:8388#%F0%9F%87%BA%F0%9F%87%B8%20%20USA%20%20%5B01%5D%20%20MIFA
 ss://YWVzLTI1Ni1nY206ZjM0NTc5ZDAxNDhiMjU4MQ@185.22.154.104:50129#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B09%5D%20%20MIFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@basic-ru-0.undef.network:51287#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B08%5D%20%20MIFA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZmxuWGQ4ZHJSSTVVV0xDTWpDQW5YOFJr@83.166.250.6:51572#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B06%5D%20%20MIFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZmxuWGQ4ZHJSSTVVV0xDTWpDQW5YOFJr@basic-ru-0.undef.network:51572#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B02%5D%20%20MIFA
-vless://a8ebcce6-3260-49a4-9be0-cea2fa479753@82.202.140.8:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.com&pbk=zlmNRlSzdn2zegjL4nFXmOmlBe_2_Wm0mKhD2aeJ9BE&sid=b3#TCP, VK [V.O.I.D]
-vless://a8ebcce6-3260-49a4-9be0-cea2fa479753@vk01.filesdownloader.ru:443?security=reality&flow=xtls-rprx-vision&fp=ios&pbk=zlmNRlSzdn2zegjL4nFXmOmlBe_2_Wm0mKhD2aeJ9BE&sid=b3&sni=vk.com#Reality, VK [V.O.I.D]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B07%5D%20%20MIFA
+ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA@45.140.169.216:30112#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B12%5D%20%20MIFA
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@72.56.235.141:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2#SNI%3A%20api-maps.yandex.ru%20%5B%23%D0%A0%D0%9A%D0%9F%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687
 ss://YWVzLTI1Ni1nY206MzE1MDQ2NjU2OGVkYTg3Yg@195.58.49.26:60129#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B13%5D%20%20MIFA
-vless://56b01a2e-dade-41ab-b3dc-0ed56e471b11@158.160.33.12:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&sid=3c1523da43287ec4&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23113
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B01%5D%20%20MIFA
-vless://56b01a2e-dade-41ab-b3dc-0ed56e471b11@158.160.109.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&sid=3c1523da43287ec4&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23112
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@basic-ru-0.undef.network:51287#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B08%5D%20%20MIFA
+vless://600c2e35-031a-40fe-983e-5d892114c799@46.182.24.141:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=tunnel.vk-apps.com&pbk=-3KqEvD5M3nJTrTO2kvmrTn1WpLxn6k_ckjh6XsKqTc&sid=b2a6e3d42f05c3d1&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2328
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B03%5D%20%20MIFA
-vless://56b01a2e-dade-41ab-b3dc-0ed56e471b11@158.160.50.253:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&sid=3c1523da43287ec4&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23114
-vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@77.239.126.152:7443?type=tcp&headerType=none&security=reality&encryption=none&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA%20%20Estonia%20%20%5B01%5D%20%20MIFA
-vless://56b01a2e-dade-41ab-b3dc-0ed56e471b11@158.160.109.57:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=www.vk.com&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&sid=3c1523da43287ec4&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%23115
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#%F0%9F%87%AC%F0%9F%87%A7%20%20Great%20Britain%20%20%5B03%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZmxuWGQ4ZHJSSTVVV0xDTWpDQW5YOFJr@basic-ru-0.undef.network:51572#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B02%5D%20%20MIFA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%AC%F0%9F%87%A7%20%20Great%20Britain%20%20%5B02%5D%20%20MIFA
+vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@77.239.126.152:7443?type=tcp&headerType=none&security=reality&encryption=none&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA%20%20Estonia%20%20%5B01%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#%F0%9F%87%AC%F0%9F%87%A7%20%20Great%20Britain%20%20%5B03%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B01%5D%20%20MIFA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZHFIQTM3a2VKSXY2a2xPRFdDRlNj@5.253.59.156:32140#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B02%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B07%5D%20%20MIFA
+vless://c1d2e359-5652-40c2-bd0b-22263af6e5f4@lit5.helper-internet.com:443?flow=xtls-rprx-vision&fp=random&headertype=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=lit5.helper-internet.com&spx=%2F&type=tcp#6750.%20%F0%9F%87%B1%F0%9F%87%B9%20VLESS%20%7C%20SNI%3A%20lit5.helper-internet.com%20%7C%20TG%3A%20%40wlrustg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTEA4NC4zOC4xODEuOTc6ODM4OA==#%F0%9F%87%B7%F0%9F%87%BA%20%5BSS%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%237015%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@5.188.224.71:8388#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B05%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBTzdhdHZDQmxCcFJHNy1RbWctSG5B@93.123.84.128:1080#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20%20%5B01%5D%20%20MIFA
