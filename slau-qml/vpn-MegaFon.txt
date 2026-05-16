@@ -1,2 +1,1 @@
 trojan://162534@84.32.49.95:8443/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@84.201.129.19:8433?encryption=none&type=ws&security=tls&path=%2F&host=e.genesis1780.ru&sni=e.genesis1780.ru#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23157
