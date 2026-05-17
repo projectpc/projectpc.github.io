@@ -1,20 +1,20 @@
 vless://6a09b684-1a73-4d4b-9dd7-7da5caf6cfd2@russia.myxavpn.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&sni=russia.myxavpn.com#2127 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-vless://a8ebcce6-3260-49a4-9be0-cea2fa479753@vk01.filesdownloader.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=zlmNRlSzdn2zegjL4nFXmOmlBe_2_Wm0mKhD2aeJ9BE&sid=b3&sni=vk.com%23%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+%E2%9A%AA+%7C+vk.com#0314 | 🌐 Unknown | 🏳️ SNI-VK | VLESS | TG: @YoutubeUnBlockRu | Obhod WL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B09%5D%20%20MIFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@basic-ru-0.undef.network:51287#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B10%5D%20%20MIFA
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.64:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#0835 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
 vless://75807638-6f19-07d0-ae08-38492ee85c88@ru2.corpmail59.ru:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#1088 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.162.163:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#2021 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B02%5D%20%20MIFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%AC%F0%9F%87%A7%20%20Great%20Britain%20%20%5B03%5D%20%20MIFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#%F0%9F%87%AC%F0%9F%87%A7%20%20Great%20Britain%20%20%5B02%5D%20%20MIFA
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru43.mechvpn.online:443?alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#955.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20ru43.mechvpn.online%20%7C%20TG%3A%20%40wlrustg
+vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@ru43.mechvpn.online:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=ru43.mechvpn.online&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision#954.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20ru43.mechvpn.online%20%7C%20TG%3A%20%40wlrustg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@basic-ru-0.undef.network:51287#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B10%5D%20%20MIFA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZmxuWGQ4ZHJSSTVVV0xDTWpDQW5YOFJr@83.166.250.6:51572#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B08%5D%20%20MIFA
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@72.56.235.141:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20%20USA%20%20%5B02%5D%20%20MIFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B03%5D%20%20MIFA
+vless://a8ebcce6-3260-49a4-9be0-cea2fa479753@vk01.filesdownloader.ru:443?flow=xtls-rprx-vision&fp=ios&pbk=zlmNRlSzdn2zegjL4nFXmOmlBe_2_Wm0mKhD2aeJ9BE&security=reality&sid=b3&sni=vk.com&spx=%2F&type=tcp#Reality, VK [V.O.I.D]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1c09qQVFYbXlScWNZOGFSQUZGZ2hueVJS@83.166.250.6:51287#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B09%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#%F0%9F%87%AC%F0%9F%87%A7%20%20Great%20Britain%20%20%5B03%5D%20%20MIFA
 vless://75807638-6f19-07d0-ae08-38492ee85c88@ru1.corpmail59.ru:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#4262 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@72.56.235.141:8388#%F0%9F%87%BA%F0%9F%87%B8%20%20USA%20%20%5B02%5D%20%20MIFA
-ss://YWVzLTEyOC1nY206Njc4NGFlZTItMGRmZS00NzRmLTg0NDYtNDgwMjU5ZmY5OTE4QDQ1LjEzOS4yNS40Mzo0NDI=#%F0%9F%87%B7%F0%9F%87%BA%20%5BSS%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%236685%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#%F0%9F%87%AC%F0%9F%87%A7%20%20Great%20Britain%20%20%5B02%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQRE5jckhiR21iNXU3Nk9nOE5hdGpa@185.117.91.27:21836
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.64:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#0835 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://df9631be-14a5-4ff3-8e65-c1482b3d3a72@178.212.13.73:443?type=tcp&headerType=none&security=reality&encryption=none&sni=rutube.ru&fp=chrome&pbk=mIiXsukgir3EPj4ZTFph7PkWEfZkOG3UEFOrWKUdRX8&sid=ba4a8bdd8ab373ed&flow=xtls-rprx-vision#TCP, Rutube [V.O.I.D]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZHFIQTM3a2VKSXY2a2xPRFdDRlNj@5.253.59.156:32140#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B01%5D%20%20MIFA
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@155.212.225.150:443?encryption=none&flow=xtls-rprx-vision&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=max.ru&type=tcp#4212.%20VLESS%20%7C%20SNI%3A%20max.ru%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#🇱🇻 Латвия ⚪ | no-sni | Obhod WL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@109.176.229.55:8388#0085 | 🇬🇧 United Kingdom | SS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.162.163:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#2021 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+ss://YWVzLTI1Ni1nY206NjVhOWU2MmYtOTNhNi00MGViLWI1MWQtMGQ4MzIxMjRlYjMx@192.142.18.127:443#%F0%9F%87%BF%F0%9F%87%A6%20%20South%20Africa%20%20%5B01%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBTzdhdHZDQmxCcFJHNy1RbWctSG5B@93.123.84.128:1080#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20%20%5B03%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVZmxuWGQ4ZHJSSTVVV0xDTWpDQW5YOFJr@basic-ru-0.undef.network:51572#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B03%5D%20%20MIFA
