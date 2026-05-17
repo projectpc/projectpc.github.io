@@ -1,4 +1,2 @@
-vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@84.201.129.19:8433?encryption=none&type=ws&security=tls&path=%2F&sni=e.genesis1780.ru#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23134
-vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@84.201.129.19:4433?encryption=none&type=ws&security=tls&sni=e.genesis1780.ru#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23148
-vless://2775f0ca-d07e-4b7f-9153-ece466a6f5ff@84.201.141.152:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=xwusQ4IEWdYyuPLCc4LOA89P6HyQDNT7xo_75v2YW2I&sid=27e53bbcab7593d7#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20YA
-vless://fd365b7e-26eb-479a-a009-e182d827de04@84.201.169.50:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=c31f9a0e7d4b52&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%E2%80%94%20%23431
+vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@84.201.167.77:443?encryption=none&type=ws&security=tls&path=%2F&sni=e.genesis1780.ru#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23168
+vless://c286cb84-1a5c-4543-bc9e-d7727a0ad823@84.201.129.19:4433?type=ws&headerType=none&security=tls&encryption=none&sni=e.genesis1780.ru&path=%2F&host=e.genesis1780.ru&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B18%5D%20%20MIFA
