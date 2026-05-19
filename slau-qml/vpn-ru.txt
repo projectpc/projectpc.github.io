@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA@84.38.181.97:8388#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B02%5D%20%20MIFA
+vless://7b921ecd-fc42-4110-b7bf-20f1bd2649b7@84.201.174.10:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=b3bd6f5b168c4d61#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%232
+vless://7b921ecd-fc42-4110-b7bf-20f1bd2649b7@84.201.174.10:51191?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=b3bd6f5b168c4d61#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%231
