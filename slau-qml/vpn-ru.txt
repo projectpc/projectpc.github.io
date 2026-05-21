@@ -1,1 +1,1 @@
-vless://9b4217a7-4809-4876-9cec-231686bb7eca@84.252.137.42:443?encryption=none&type=ws&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
+vless://80cee2cb-cb65-4999-b1d4-3d32b5b7a373@84.201.133.82:443?encryption=none&type=ws&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%2330
