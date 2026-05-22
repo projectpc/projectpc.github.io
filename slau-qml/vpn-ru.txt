@@ -1,4 +1,1 @@
-vless://e81c7458-b931-47ef-bdd9-fa86431ed3fa@84.201.133.82:443?encryption=none&type=ws&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%2319
-vless://e81c7458-b931-47ef-bdd9-fa86431ed3fa@84.201.133.82:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=edge&sni=ads.x5.ru&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a2bb&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%2320
-vless://e81c7458-b931-47ef-bdd9-fa86431ed3fa@84.201.133.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=d7e1a111&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%232
-vless://e81c7458-b931-47ef-bdd9-fa86431ed3fa@84.201.152.96:443?encryption=none&type=ws&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
+vless://9f819c41-b57a-4555-b227-09bade3cd87a@84.252.137.42:443?encryption=none&type=ws&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
