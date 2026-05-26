@@ -1,1 +1,1 @@
-vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@84.201.187.42:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=8zVjmI0JrsjZBlImD8TbPAb_de26b_YKRARmp-T_eH4&sid=6b26829083#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
+vless://b6083a84-80a5-3e88-9dbb-5c8ef241be3a@84.201.187.42:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=8zVjmI0JrsjZBlImD8TbPAb_de26b_YKRARmp-T_eH4&sid=6b26829083#16.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20ads.x5.ru%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
