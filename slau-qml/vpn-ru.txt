@@ -1,1 +1,1 @@
-vless://e02086b7-6888-4b5b-909a-27b7d4dab47a@84.201.138.207:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=super.bestcats-video.online&pbk=HFgjr7QesxPzYbsNHIIgFMKGAivqfEZmp91EW_yDciM#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%236
+vless://10cc246c-9c02-45b0-91ec-77f18084f0f9@84.201.139.67:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=uYdYVZk9icFIvfd8eKHYHiULohrTdIHl2J8ktn7uTUU&sid=9db07670a7b491cb&sni=ads.x5.ru#0843 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | 🏳️ SNI-X5 | VLESS | TG: @YoutubeUnBlockRu
