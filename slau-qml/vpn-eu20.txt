@@ -1,20 +1,20 @@
-vless://8248708c-a0e0-40a4-bb95-4fb70b59ed24@80.66.89.165:50577?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=_7u9WBQIa4oSoDlckNtwnG3rm3b4FCzm423gysg2Wwg&sid=b1d9a054f1bb3572&sni=api-maps.yandex.ru#%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%93%B6LTE%7C%40xex_vpn%20%23135
+vless://171737f6-9dbb-4b78-b7ef-6cb489050a4a@80.66.89.165:50578?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=ppc0rsHO7qJelZDBQSxS5ov_J_bFX6WQtABnpc3kLSc&sid=ab66bb9e6621d898&sni=api-maps.yandex.ru#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-25104
 vless://01cf5781-5948-11f1-9a67-dc08fb041e0d@72.56.33.191:443?type=tcp&security=reality&pbk=2IAFC23dkBm2ZRPTcxSWZ5YkpVxJufIIZn3-aSPRH10&fp=randomized&sni=ads.x5.ru&spx=%2Fad%2F8611949&encryption=none&flow=xtls-rprx-vision#🇷🇺 Россия | @VSPBOOST
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#6397.%20SS%20%7C%20TG%3A%20%40wlrustg
-vless://79f063dd-77bd-4a40-854a-67870be42175@ru4.easyserf.top:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru4.easyserf.top&fp=chrome&pbk=RpM3WEYiP4xbmvoe1sfnGBmtW9ZIaKARcf5JJvqSsxQ&sid=8a5fa3d7e3de8557&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%93%B6LTE%7C%40xex_vpn%20%23431
-vless://e3156a48-920e-48c1-aea8-a75116f3ae2b@83.229.14.126:49800?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yastatic.net&pbk=TWKsF252ypkqpa4QmJzHES3QPiHnN0vzimjpM_rnWz8#465.%20%F0%9F%87%B5%F0%9F%87%B1%20VLESS%20%7C%20SNI%3A%20yastatic.net%20%7C%20TG%3A%20%40wlrustg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzYkpaUDVqRWNXVmdOZlZHNnNINzZ6@195.133.2.2:34898#%F0%9F%87%AB%F0%9F%87%AE%20%20Finland%20%20%5B02%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#4826.%20SS%20%7C%20TG%3A%20%40wlrustg
+vless://e3156a48-920e-48c1-aea8-a75116f3ae2b@83.229.14.126:49800?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yastatic.net&pbk=TWKsF252ypkqpa4QmJzHES3QPiHnN0vzimjpM_rnWz8#%F0%9F%87%B5%F0%9F%87%B1%20%F0%9F%93%B6LTE%7C%40xex_vpn%20%23542
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTVpndEpFYWtFeUhVU3BlOGExNmVj@109.107.182.229:51544#%F0%9F%87%AB%F0%9F%87%AE%20%20Finland%20%20%5B01%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1REpYUnBtaTNpeXF4UTc5UGZLdjNC@195.93.253.240:14130/
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B07%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTWVKaGlhOUhoQ3cxaEdjeGVWRlFm@195.93.253.245:49137/
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B06%5D%20%20MIFA
 vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@2.26.255.17:443?type=tcp&headerType=none&security=reality&encryption=none&sni=plnew.stardevs.top&fp=chrome&pbk=3eQPRXLwOXCmDF0ufIeY1vpD_PRWteJJni-mxeU42Ek&sid=b03a4d1767157467&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20%5B%D0%91%D0%A1-VL%5D%20%D0%A1%D0%A8%D0%90%20%2314689%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTVpndEpFYWtFeUhVU3BlOGExNmVj@109.107.182.229:51544#%F0%9F%87%AB%F0%9F%87%AE%20%20Finland%20%20%5B01%5D%20%20MIFA
-ss://YWVzLTI1Ni1nY206NjVhOWU2MmYtOTNhNi00MGViLWI1MWQtMGQ4MzIxMjRlYjMx@192.142.18.127:443#🇿🇦 ЮАР | @VSPBOOST
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTllSZlUxTHNuUDJUVjRxMGJUNEtK@5.253.59.156:32140?prefix=%17%03%03#🇳🇱 Нидерланды | @VSPBOOST
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WVZTWDluTDFYTlpVb0lYTDhQUGthWWlWN3NSWGlLS2l5MkV3YlJvQ1VvQT06THVuRmZqaklSMmdGOGFYSUROZFdzMldRYmcxcmQ2ZXVPSjRhL2pNRTA1ST0=@134.209.177.114:22277?security=none&type=tcp#4803.%20%F0%9F%87%AC%F0%9F%87%A7%20SS%20%7C%20TG%3A%20%40wlrustg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbFp2eU9KS1ZJTlNvcEtCNkk2c1Rn@198.105.115.100:1080#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20%20%5B03%5D%20%20MIFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppZE12b2V3clN5TEx2RXZQMDNrOXpS@138.68.153.223:46576#4881.%20SS%20%7C%20TG%3A%20%40wlrustg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B04%5D%20%20MIFA
-vless://8dfb7d49-3632-4b24-b0c3-a123bc956154@158.160.135.170:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=io.ozone.ru&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%237
-vless://8dfb7d49-3632-4b24-b0c3-a123bc956154@158.160.135.170:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%234
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaak0yTg@138.124.125.249:1443#%F0%9F%87%AC%F0%9F%87%A7%20%20Great%20Britain%20%20%5B01%5D%20%20MIFA
+vless://fe768c0e-5597-496b-b57b-dd442299508a@84.201.162.110:3443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=844352756c1fabba#%F0%9F%87%B7%F0%9F%87%BA%20UFO%20Hosting%20%E2%80%94%20%2335
+vless://d4305704-a108-4ce0-8ef0-66076e6227e9@3.66.32.10:443?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#5848.%20VLESS%20%7C%20TG%3A%20%40wlrustg
 vless://e85e5523-402e-4eb0-ad27-2bcdbd4ea0f4@212.47.244.85:16595?security=none&encryption=none&headerType=none&type=tcp#5919.%20VLESS%20%7C%20TG%3A%20%40wlrustg
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.175.178.184:443?security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&type=tcp&host=est-def.sbrf-cdn342.ru&path=%2F#4752.%20%F0%9F%87%AA%F0%9F%87%AA%20VLESS%20%7C%20SNI%3A%20sub.sbrf-cdn342.ru%20%7C%20TG%3A%20%40wlrustg
-vless://bbf07169-8c80-485b-83d5-93b87a882219@45.139.78.77:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sellflow.org&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+ss://YWVzLTI1Ni1nY206NjVhOWU2MmYtOTNhNi00MGViLWI1MWQtMGQ4MzIxMjRlYjMx@192.142.18.127:443#🇿🇦 ЮАР | @VSPBOOST
+vless://6fc86f51-51e8-4f51-8ccb-31c6abe02d88@18.185.184.13:443?security=none&encryption=none&headerType=none&type=tcp#5466.%20%F0%9F%87%A9%F0%9F%87%AA%20VLESS%20%7C%20TG%3A%20%40wlrustg
+vless://b5a850cc-c323-4db9-8a2a-46f250591c7c@84.32.51.137:443?type=tcp&headerType=none&security=reality&encryption=none&fp=chrome&pbk=Abv_GBHT7hWs6pm7h9DC83-TvYXCa7gryqC296DRM1c&sid=3480570f03d0a601&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20%20%5B06%5D%20%20MIFA
