@@ -1,1 +1,1 @@
-vless://ceeeea8c-5aae-4a02-b8cd-263913163f43@84.201.138.207:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=super.bestcats-video.online&pbk=HFgjr7QesxPzYbsNHIIgFMKGAivqfEZmp91EW_yDciM#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%237
+vless://fe389e6c-ccf4-4ad5-926c-9d1095777b4c@84.201.138.207:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=super.bestcats-video.online&pbk=HFgjr7QesxPzYbsNHIIgFMKGAivqfEZmp91EW_yDciM#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%234
