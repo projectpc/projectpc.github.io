@@ -1,1 +1,1 @@
-vless://6e84b643-1c90-41e7-9028-ce4dea28c21c@pro-ru-84.emrata.top:443?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
+vless://f719ce6b-e5b2-4445-a73f-0a86d6f6b943@84.201.138.207:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=super.bestcats-video.online&pbk=HFgjr7QesxPzYbsNHIIgFMKGAivqfEZmp91EW_yDciM#%F0%9F%87%B7%F0%9F%87%BA%20Yandex%20%E2%80%94%20%2312
