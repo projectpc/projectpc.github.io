@@ -1,1 +1,1 @@
-vless://6e84b643-1c90-41e7-9028-ce4dea28c21c@pro-ru-84.emrata.top:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B13%5D%20%20MIFA
+vless://6e84b643-1c90-41e7-9028-ce4dea28c21c@pro-ru-84.emrata.top:443?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
