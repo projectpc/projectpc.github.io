@@ -1,1 +1,1 @@
-vless://6e84b643-1c90-41e7-9028-ce4dea28c21c@pro-ru-84.emrata.top:443?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&flow=xtls-rprx-vision&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇷🇺 Россия
+vless://4405aeb6-84fc-49ba-a42b-948a3b1ed13c@us.healthy-connected.com:443?type=tcp&security=reality&fp=edge&flow=xtls-rprx-vision&pbk=ep8sjqX2t_F-tn5SElD9RkuRimExyi9h1MA-F5ESa30&sid=30e570274c0c72cc#460.%20%F0%9F%87%BA%F0%9F%87%B8%20VLESS%20%7C%20SNI%3A%20us.healthy-connected.com%20%7C%20TG%3A%20%40wlrustg
