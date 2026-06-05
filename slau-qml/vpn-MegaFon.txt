@@ -1,1 +1,1 @@
-vless://07e326bb-801c-49fc-9005-d2a3e9673e89@nlb2.mangshe.xyz:2056?type=tcp&sni=nlb2.mangshe.xyz#[167ms Германия DE 🇩🇪 @vlesstrojan]%20t.me%2Frjsxrd
+vless://07e326bb-801c-49fc-9005-d2a3e9673e89@84.200.33.81:2056?encryption=none&security=none&type=tcp#5299.%20VLESS%20%7C%20TG%3A%20%40wlrustg
