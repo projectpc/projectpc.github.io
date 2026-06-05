@@ -1,1 +1,2 @@
+vless://07e326bb-801c-49fc-9005-d2a3e9673e89@nlb2.mangshe.xyz:2056?type=tcp&sni=nlb2.mangshe.xyz#2083.%20%F0%9F%87%A9%F0%9F%87%AA%20VLESS%20%7C%20SNI%3A%20nlb2.mangshe.xyz%20%7C%20TG%3A%20%40wlrustg
 vless://73a27a6d-a111-4576-a6b3-e8594aeac2f2@backend.xwhiteness.site:443?type=tcp&headerType=none&security=reality&encryption=none&sni=backend.xwhiteness.site&fp=firefox&pbk=gifIrcPX_n54pgouOfegoOXfTtQTE3DUHjjrVqF0qGY&flow=xtls-rprx-vision#2086.%20%F0%9F%87%A9%F0%9F%87%AA%20VLESS%20%7C%20SNI%3A%20backend.xwhiteness.site%20%7C%20TG%3A%20%40wlrustg
