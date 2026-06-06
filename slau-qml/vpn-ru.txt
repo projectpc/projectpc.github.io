@@ -1,1 +1,1 @@
-vless://2c919d37-8ca4-4ec9-9013-818d153668db@84.201.164.26:446?type=grpc&security=reality&fp=chrome&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&sid=0512567389abcdef&sni=ads.x5.ru&serviceName=ads.x5.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
+vless://6fb69b67-abe3-4f5b-a823-25aa20cf9779@84.201.170.9:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2314
