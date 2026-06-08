@@ -1,1 +1,1 @@
-vless://6fb69b67-abe3-4f5b-a823-25aa20cf9779@84.201.170.9:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2314
+vless://5dfd9acc-85fd-405b-8efe-b60f2b91744a@ya2.harknmav.fun:443?type=tcp&headerType=none&security=reality&encryption=none&sni=yandex.ru&fp=chrome&pbk=bzX8l1h-ze1eML9stiVhe0DsotjtW4WOkjkk4eri9BM&sid=dfdbaa7f996dd0e9&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20yandex.ru
