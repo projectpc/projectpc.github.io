@@ -1,1 +1,2 @@
-vless://b4de98cb-2e66-4251-a6fb-7d86bc78e255@84.54.56.192:8445?flow=xtls-rprx-vision&fp=chrome&pbk=j_d5RifkzUsQwAKwb3G3VqWS70wH5F-zMsQ7nfYQChQ&security=reality&sid=17214756ee7d96bc&sni=vkvideo.ru&spx=%2F#🇫🇮550Mb | M247 Europe SRL%20t.me%2Frjsxrd
+vless://b4de98cb-2e66-4251-a6fb-7d86bc78e255@84.54.56.192:8445?security=reality&sid=17214756ee7d96bc&sni=vkvideo.ru&fp=chrome&pbk=j_d5RifkzUsQwAKwb3G3VqWS70wH5F-zMsQ7nfYQChQ&flow=xtls-rprx-vision&spx=%2F&burmalda=a5c4215e#[309ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+vless://ea52d40f-be17-4789-91ec-55d7bb1821f2@neymar.ariyant.ir:80?encryption=none&security=none&serviceName=Tunnelme&type=grpc#4597.%20VLESS%20%7C%20SNI%3A%20neymar.ariyant.ir%20%7C%20TG%3A%20%40wlrustg
