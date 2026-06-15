@@ -1,1 +1,1 @@
-vless://b02b7386-d1fa-4321-a3d1-ce11251ed81d@84.201.180.91:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=n995xG00VmlZ2j_SIka7jUo8_jKQO8gIQU5FQaU-0AA&sid=743cdafc&sni=api-maps.yandex.ru#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5B%2ACIDR%5D%20YA
+vless://b4de98cb-2e66-4251-a6fb-7d86bc78e255@84.54.56.192:8445?security=reality&sid=17214756ee7d96bc&sni=vkvideo.ru&fp=chrome&pbk=j_d5RifkzUsQwAKwb3G3VqWS70wH5F-zMsQ7nfYQChQ&flow=xtls-rprx-vision&spx=%2F&burmalda=a5c4215e#[309ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
