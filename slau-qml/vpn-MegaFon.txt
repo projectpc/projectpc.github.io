@@ -1,1 +1,1 @@
-vless://b4de98cb-2e66-4251-a6fb-7d86bc78e255@84.54.56.192:8445?security=reality&sid=17214756ee7d96bc&sni=vkvideo.ru&fp=chrome&pbk=j_d5RifkzUsQwAKwb3G3VqWS70wH5F-zMsQ7nfYQChQ&flow=xtls-rprx-vision&spx=%2F&burmalda=a5c4215e#[309ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
+vless://b4de98cb-2e66-4251-a6fb-7d86bc78e255@84.54.56.192:8445?security=reality&sid=17214756ee7d96bc&sni=vkvideo.ru&fp=chrome&pbk=j_d5RifkzUsQwAKwb3G3VqWS70wH5F-zMsQ7nfYQChQ&flow=xtls-rprx-vision&spx=%2F&burmalda=a5c4215e#AetrisVPN White list ┃ ✅ SNI: vkvideo.ru ┃ 🇷🇺 Россия
