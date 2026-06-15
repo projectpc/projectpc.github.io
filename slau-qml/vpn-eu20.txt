@@ -1,20 +1,20 @@
 ss://YWVzLTI1Ni1nY206MWE4NzAxN2QwYmY1N2YzNA@195.58.48.56:20129#%F0%9F%87%B7%F0%9F%87%BA%20%20Russia%20%20%5B01%5D%20%20MIFA
-vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?encryption=none&type=raw&headerType=none&security=none#БС [@VSPBOOST] 🏳️ 51
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dTJYblNQV2htUWp4bjgzaUpBM0RB@207.2.120.46:3478#БС [@VSPBOOST] 🏳️ 27
-vless://509dec94-cc08-4351-9ce8-811e76e092c3@31.76.6.138:443?type=tcp&headerType=none&security=reality&encryption=none&sni=console.cloud.yandex.ru&fp=firefox&pbk=DbpNCOTF5G7L5lGDBUtoiUNsZ_eoKwUgZX__Xhu4nEc&sid=add6bfff300435ac&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20%20USA%20%20%5B01%5D%20%20MIFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBQm9FcHhlVTlGYlFyN19KbjdLVTRzVXFEN1JLakJzMg@85.192.49.179:51523#2651.%20%F0%9F%87%AB%F0%9F%87%AE%20SS%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B04%5D%20%20MIFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B05%5D%20%20MIFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMVNBazNvX0N5ekFjUlFNajB5YmNva1VEVzNqb1JQbg@85.192.49.172:51523#%F0%9F%87%AB%F0%9F%87%AE%20%20Finland%20%20%5B03%5D%20%20MIFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#5751.%20%F0%9F%87%AC%F0%9F%87%A7%20SS%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#2868.%20SS%20%7C%20TG%3A%20%40wlrustg
+vless://b4de98cb-2e66-4251-a6fb-7d86bc78e255@84.54.56.192:8445?security=reality&sid=17214756ee7d96bc&sni=vkvideo.ru&fp=chrome&pbk=j_d5RifkzUsQwAKwb3G3VqWS70wH5F-zMsQ7nfYQChQ&flow=xtls-rprx-vision&spx=%2F&burmalda=a5c4215e#AetrisVPN White list ┃ ✅ SNI: vkvideo.ru ┃ 🇷🇺 Россия
+vless://a8160c2f-561b-4849-83d2-9900d1442c74@144.31.178.160:8443?type=xhttp&security=reality&sni=sun1-90.userapi.com&fp=firefox&pbk=P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34&sid=fda2928a0a987b11#XHTTP, VK [V.O.I.D]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#2891.%20SS%20%7C%20TG%3A%20%40wlrustg
 vless://bee8df77-2780-5a7b-b005-9da84fcb7aaf@ru-lv.illusion-vpn.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-lv.illusion-vpn.ru&fp=firefox&pbk=86DiKd_LyZ_9L4WyaADZsNJH5wnaTGoZyywz0CGFYwg&sid=9ec378e393a94f&spx=%2F&type=tcp&headerType=none#310.%20VLESS%20%7C%20SNI%3A%20ru-lv.illusion-vpn.ru%20%7C%20TG%3A%20%40wlrustg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B03%5D%20%20MIFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OGI2ZTkzZTU0MjI1ODAz@51.75.168.50:26179#2599.%20%F0%9F%87%AB%F0%9F%87%B7%20SS%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#2791.%20SS%20%7C%20TG%3A%20%40wlrustg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5OVlJUTRJR3B2MzBNZDhlVTZaZmVL@5.253.59.156:32140#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B02%5D%20%20MIFA
-vless://1c7e2730-839d-4321-84f9-4e6b69ea4856@5.175.178.161:8443?flow=xtls-rprx-vision&fp=firefox&pbk=NKL_wMX8dn09Y8pABdtSoop2zyaT4CnYPGJu8_m52jI&security=reality&sid=5fc027d907f46ee9&sni=www.microsoft.com&type=tcp#БС [@VSPBOOST] 🏳️ 55
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg@ru.moktana.app:51523#2602.%20%F0%9F%87%B7%F0%9F%87%BA%20SS%20%7C%20SNI%3A%20ru.moktana.app%20%7C%20TG%3A%20%40wlrustg
+vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@45.8.93.12:443?sni=newsw.stardevs.top&headertype=none&pbk=YU7hzDkfhfrA8v2rhMEUhgh7EQs4mHX9M60fkraccis&encryption=none&security=reality&fp=chrome&type=tcp&alpn=http%2F1.1&allowInsecure=1&sid=f37fb7531c60780d&flow=xtls-rprx-vision&_t=ddd7a3d5#%F0%9F%8C%8D%20%D0%94%D1%80%D1%83%D0%B3%D0%BE%D0%B5%2041
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMVNBazNvX0N5ekFjUlFNajB5YmNva1VEVzNqb1JQbg@85.192.49.172:51523#%F0%9F%87%AB%F0%9F%87%AE%20%20Finland%20%20%5B03%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#2763.%20SS%20%7C%20TG%3A%20%40wlrustg
+vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@2.27.27.227:443?type=tcp&headerType=none&security=reality&encryption=none&sni=am.buycloud.app&fp=firefox&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=aa1ebec96b11491f&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20%20Japan%20%20%5B01%5D%20%20MIFA
+vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@2.27.27.226:443?type=tcp&headerType=none&security=reality&encryption=none&sni=am.buycloud.app&fp=firefox&pbk=qoAuuFJ0eK1lAMHIqTt6LniY6qu1GIobrGthBcRHUXM&sid=3a4453b8b46a18de&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20%20Japan%20%20%5B02%5D%20%20MIFA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dTJYblNQV2htUWp4bjgzaUpBM0RB@148.253.208.76:3478#БС [@VSPBOOST] 🏳️ 23
-vless://b4de98cb-2e66-4251-a6fb-7d86bc78e255@84.54.56.192:8445?security=reality&sid=17214756ee7d96bc&sni=vkvideo.ru&fp=chrome&pbk=j_d5RifkzUsQwAKwb3G3VqWS70wH5F-zMsQ7nfYQChQ&flow=xtls-rprx-vision&spx=%2F&burmalda=a5c4215e#AetrisVPN White list ┃ ✅ SNI: vkvideo.ru ┃ 🇷🇺 Россия
-ss://YWVzLTI1Ni1nY206N2FkN2RmNWEtMjNiZC00NTliLTliZWYtYzQyOGYyNmZmZjRh@192.142.18.127:443#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B01%5D%20%20MIFA
+vless://0c29e923-168d-46f2-baab-eaad11c15f69@89.35.119.194:443?type=tcp&headerType=none&security=reality&encryption=none&sni=node.food38.ru&fp=firefox&pbk=6tutgabYaEsf7LH59WJjh0mdo_Q3OWZTgA7AH1KONj4&sid=284528221889af15&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20%20Finland%20%20%5B02%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#2792.%20%F0%9F%87%AC%F0%9F%87%A7%20SS%20%7C%20TG%3A%20%40wlrustg
+vless://9c3928fd-c262-4782-b938-1d6eda5d6e9a@de-dp-01.com:8443?type=tcp&security=reality&sni=storage.yandex.net&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&sid=8d3293f0066e129a&fp=firefox&flow=xtls-rprx-vision&encryption=none#1217.%20%F0%9F%87%A9%F0%9F%87%AA%20VLESS%20%7C%20SNI%3A%20storage.yandex.net%20%7C%20TG%3A%20%40wlrustg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dTJYblNQV2htUWp4bjgzaUpBM0RB@194.242.127.47:3478#БС [@VSPBOOST] 🏳️ 28
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBQm9FcHhlVTlGYlFyN19KbjdLVTRzVXFEN1JLakJzMg@85.192.49.179:51523#2651.%20%F0%9F%87%AB%F0%9F%87%AE%20SS%20%7C%20TG%3A%20%40wlrustg
