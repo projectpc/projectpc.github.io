@@ -1,20 +1,20 @@
-vless://4f160454-fbf5-4e61-9d83-78f6b6c25d80@13.51.238.84:42316?encryption=none&type=raw&headerType=none&security=none#БС [@VSPBOOST] 🏳️ 51
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B04%5D%20%20MIFA
-vless://abd880a5-d08f-4dfe-b8f5-d4b61892163a@37.77.104.182:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=www.cloudflare.com&pbk=fTr_LAmKQdYpAhijlApm1kMjS8_11Y9HMKconlHmZWE&sid=e8d2a1b4c39f8877#136.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20www.cloudflare.com%20%7C%20TG%3A%20%40wlrustg
-vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?security=reality&encryption=none&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=4d3ff920673f7534#2824.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20max.ru%20%7C%20TG%3A%20%40wlrustg
-vless://281da500-0018-4991-b5d7-feb4ab627f3a@144.31.1.83:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun9-35.userapi.com&fp=firefox&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128&flow=xtls-rprx-vision#TCP, VK [V.O.I.D]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.17:8080#2249.%20SS%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dTJYblNQV2htUWp4bjgzaUpBM0RB@207.2.120.46:3478#БС [@VSPBOOST] 🏳️ 27
-vless://17fc973b-2631-477e-a5d0-7045dab38f31@2.27.22.238:110?encryption=none&headerType=none&type=tcp#2820.%20VLESS%20%7C%20TG%3A%20%40wlrustg
-vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@se1.vitok.cc:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=F7NZa0wqjlz9zHlFUUW8rnh9j9GwX7e2rq3CynO3s1o&sid=5e841fab&sni=yastatic.net#0050%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20FR%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#2153.%20SS%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#2272.%20%F0%9F%87%B3%F0%9F%87%B1%20SS%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#2233.%20SS%20%7C%20TG%3A%20%40wlrustg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#1939.%20SS%20%7C%20TG%3A%20%40wlrustg
+vless://6476ed5b-e7ad-4706-9883-83a99273fbf2@31.129.55.211:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=safari&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#125.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20ru.kosmosapp.ru%20%7C%20CIDR%3A%20Selectel%20%7C%20TG%3A%20%40wlrustg
+vless://90299b7d-b17a-44ec-892f-7b64875202e5@31.129.55.212:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ru.kosmosapp.ru&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#131.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20ru.kosmosapp.ru%20%7C%20CIDR%3A%20Selectel%20%7C%20TG%3A%20%40wlrustg
+vless://411c1913-996e-4aa6-89fe-0d25ac621e83@212.233.91.194:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=vk.ru&pbk=akCWFrGBboGajZT5HS4m5fw32uJsdw6esUTC1qN4LR0&sid=79ed76c157977111#106.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20vk.ru%20%7C%20TG%3A%20%40wlrustg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B03%5D%20%20MIFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#2236.%20SS%20%7C%20TG%3A%20%40wlrustg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#2240.%20SS%20%7C%20TG%3A%20%40wlrustg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTzZGamZWZTRVMVhTTndqejJLYzdj@195.133.2.2:34898#🇫🇮 Финляндия 3%20t.me%2Frjsxrd
+vless://18655112-fd8a-44e7-a30c-37388c05816b@45.8.228.110:443?security=reality&encryption=none&pbk=kIwNoNzk1uJnZD1evWxURZskv9ZY0aGoUjrAbn3uVXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=4d3ff920673f7534#2824.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20max.ru%20%7C%20TG%3A%20%40wlrustg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B05%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#2234.%20SS%20%7C%20TG%3A%20%40wlrustg
+vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@ru.c2horizon.app:443?encryption=none&security=none&fp=chrome&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B04%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#2266.%20SS%20%7C%20TG%3A%20%40wlrustg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxcjZFQ0ZyQ0dCR0M3dWdPS2FVNVpB@5.253.59.156:32140#🇳🇱 Нидерланды 44%20t.me%2Frjsxrd
-vless://2ec81a80-8deb-4fd9-a0e1-1735896792c0@5.182.5.214:443?encryption=none&type=tcp&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2349
-vless://47cfbfdf-c8c1-402f-9fcc-712d66b17b7e@46.4.162.63:443?security=none&type=tcp#3269.%20%F0%9F%87%A9%F0%9F%87%AA%20VLESS%20%7C%20TG%3A%20%40wlrustg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#2152.%20SS%20%7C%20TG%3A%20%40wlrustg
+vless://e8bf51de-efc9-42a4-be50-1a6bc3170c63@2.27.26.41:443?security=reality&encryption=none&pbk=xx8vYPWtNhcn3i4iprMYCsURqX9hmTz_8tA_vuE1_GI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=fe12#4555.%20VLESS%20%7C%20SNI%3A%20www.intel.com%20%7C%20TG%3A%20%40wlrustg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.182:8080#2122.%20SS%20%7C%20TG%3A%20%40wlrustg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#%F0%9F%8C%8D%20%D0%94%D1%80%D1%83%D0%B3%D0%BE%D0%B5%2023
+vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@se1.vitok.cc:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=F7NZa0wqjlz9zHlFUUW8rnh9j9GwX7e2rq3CynO3s1o&sid=5e841fab&sni=yastatic.net#0050%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20FR%20%7C%20%40RaViraNet%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.183:8080#2126.%20SS%20%7C%20TG%3A%20%40wlrustg
 vless://05671cd1-ab2f-4f64-a926-b655f199a23d@104.194.148.56:22263?type=tcp&encryption=none&security=none#2658.%20%F0%9F%87%AC%F0%9F%87%A7%20VLESS%20%7C%20TG%3A%20%40wlrustg
-vless://53b8b074-c180-41d9-80dc-55979e0ddc58@165.227.236.227:8880?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#3376.%20VLESS%20%7C%20TG%3A%20%40wlrustg
