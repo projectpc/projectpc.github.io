@@ -1,20 +1,20 @@
-vless://52b71b75-4b77-4cec-990b-046ec1938e1f@45.139.27.218:443?burmalda=6ab9aab9&freeinternet=kizyak_vpn1783158305182&burmalda=e9d3cf6f&pbk=-sij6MifOyoPdIBR9kjB3ww2ClWk7IhITppFxUEdBzI&security=reality&flow=xtls-rprx-vision&type=tcp&fp=firefox&sid=9e0ba98da61cb818&sni=ru.bvps.cloud&descriptions=%D0%A1%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%83475#[330ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
-vless://411c1913-996e-000c-89fe-0d25ac621e83@dedrf.novabooster.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dedrf.novabooster.ru&fp=firefox&pbk=PcJV65cp5U87UQOZJ5Oaf0NHriHZJbC8TPfthF4Aqyk&sid=15bcc0a77c3cacdf&type=tcp&headerType=none#[532ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
-vless://8a2af219-cff5-42a2-bf69-9ed749443ba5@192.144.13.35:42942?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-vless://8a2af219-cff5-42a2-bf69-9ed749443ba5@192.144.13.35:18054?encryption=none&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B03%5D%20%20MIFA
-vless://8a2af219-cff5-42a2-bf69-9ed749443ba5@192.144.13.35:59242?type=tcp&security=none&encryption=none&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱%20t.me%2Frjsxrd
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443?type=tcp&headerType=none#[125ms Нидерланды NL 🇳🇱 @vlesstrojan]%20t.me%2Frjsxrd
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B01%5D%20%20MIFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱%20t.me%2Frjsxrd
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#%F0%9F%87%B3%F0%9F%87%B1%20%5BSS%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%232770%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱%20t.me%2Frjsxrd
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.24.73:443#🇬🇧 Join+Telegram:@SolVPN 🇬🇧%20t.me%2Frjsxrd
-vless://8a2af219-cff5-42a2-bf69-9ed749443ba5@192.144.13.35:45079?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#%F0%9F%87%B3%F0%9F%87%B1%20%5BSS%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%232886%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B02%5D%20%20MIFA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWlFZOWhOalZOV3dhbWFqclhBZjF2dDh1NjNuajBmRg==@31.76.80.205:8388#🇫🇮 Join+Telegram:@SolVPN 🇫🇮%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.2:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.149:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B01%5D%20%20MIFA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#Full 🇳🇱 #020 @FreeCFGHub%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.193:8080#Full 🇳🇱 #027 @FreeCFGHub%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.185:8080#Full 🇳🇱 #029 @FreeCFGHub%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#🇳🇱 Join+Telegram:@SolVPN 🇳🇱%20t.me%2Frjsxrd
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#%F0%9F%87%B3%F0%9F%87%B1%20%20Netherlands%20%20%5B03%5D%20%20MIFA
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@185.226.172.8:8008#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20%20%5B01%5D%20%20MIFA
-vless://4f166057-2f4c-43d8-b5b3-6eb4413022e1@201.51.12.164:8445?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=chrome&sni=apple.com&pbk=EPrMDeBde65nLBoriu-4H_4-0D4Y1pLqH9m6aSys6D8#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%E2%80%94%20%2379
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.204:8080#%F0%9F%87%B3%F0%9F%87%B1%20%5BSS%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%232882%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+vless://1921a842-0077-47d7-a007-d6976d3a9c84@193.168.46.180:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=rruu.persik.host&pbk=D0FqzTuVSzCF8IcFo64SFIpMsaGV47LW3el2GCCVoFY&sid=c1a7e9b4711d5f60#%F0%9F%87%B7%F0%9F%87%BA%20Beget%20%E2%80%94%20%2338
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.181:8080#[95ms Нидерланды NL 🇳🇱 @vlesstrojan]%20t.me%2Frjsxrd
+vless://4f166057-2f4c-43d8-b5b3-6eb4413022e1@201.51.12.164:8445?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=apple.com&pbk=EPrMDeBde65nLBoriu-4H_4-0D4Y1pLqH9m6aSys6D8#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%E2%80%94%20%2354
+vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@79.137.207.130:443?type=tcp&headerType=none&security=reality&encryption=none&sni=lvz.de&fp=firefox&pbk=5NHgGSXmIyLoslNxkfnH9ZUojx_WafjIhllNUEAhIwc&sid=ea7acce8b971&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20%20%5B13%5D%20%20MIFA%20t.me%2Frjsxrd
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#%F0%9F%87%AE%F0%9F%87%B9%20%20Italy%20%20%5B01%5D%20%20MIFA
+vless://cb784d00-d34a-4389-b938-8717f7b28353@2.26.254.83:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.twitch.tv&fp=chrome&pbk=AnxTrBjoS2NYl9efpns6l_e4JrN7jws-KnXcu6DCDCc&sid=42f27f4d688d79d4&type=tcp&headerType=none#[235ms Нидерланды NL 🇳🇱 @vlesstrojan]%20t.me%2Frjsxrd
+vless://df542c98-1ceb-40ff-9d21-6ac78ff8b173@46.4.230.210:443?type=tcp&headerType=none&security=none&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20%20%5B05%5D%20%20MIFA
+vless://d2aafa35-acd0-49c8-b149-6d01cc989fe5@vless-addr.wl-01.security-sbrf.ru:443?flow=xtls-rprx-vision&fp=firefox&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&security=reality&sid=db04ce8bdb8900f1&sni=nvidia.com&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%5B%D0%91%D0%A1-VL%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%2311303%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@37.252.14.134:40443?type=raw&security=reality&flow=xtls-rprx-vision&sni=deepl.com&fp=firefox&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY#%F0%9F%87%B3%F0%9F%87%B1%20%5BVL%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%232709%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+vless://640e48e7-e022-4772-b3ae-b0874c23fa66@82.148.29.20:8443?encryption=none&type=grpc&security=reality&mode=gun&fp=random&sni=gifs.ru&pbk=Ztky-VQmOq1xsCCvSVBHPuinJ9mRM7tck2Owa2NzO1w&sid=f6b8b9ff&spx=%2F#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23376
