@@ -1,1 +1,1 @@
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443?type=tcp&headerType=none&security=reality&encryption=none&sni=statusdetector404.ru&fp=firefox&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20%20%5B09%5D%20%20MIFA%20t.me%2Frjsxrd
+vless://010730f8-86c7-42ff-8d8e-fe258b3f36e7@84.201.173.79:80?type=grpc&mode=gun&serviceName=grpc&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
