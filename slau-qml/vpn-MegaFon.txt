@@ -1,1 +1,1 @@
-vless://a7c36ed8-59ba-45f4-90d5-0d46fd32b993@84.201.168.61:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=D4lCp4k9vVUC6vX8t_rvH27umF360uCNiVkquKQJGgY&security=reality&sid=7e3240d5b93e3f&sni=st.vk.com&spx=%2F&type=tcp#🇩🇪 Германия 103%20t.me%2Frjsxrd
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&security=reality&sid=6ba85179e30d4fc2&sni=statusdetector404.ru&type=tcp#🇱🇹 Литва 2%20t.me%2Frjsxrd
