@@ -1,1 +1,1 @@
-vless://1e32a2ea-8d6e-4c07-a643-6e584b3309bb@84.201.139.224:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=qq&sni=x5media.ru&pbk=gNtMcbWBz1AeV6giQ5gPUrKLJPDFJsilotaoYPxr-Bg&sid=83185a2743#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%E2%80%94%20%23418
+vless://1e32a2ea-8d6e-4c07-a643-6e584b3309bb@84.201.139.224:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=x5media.ru&fp=qq&pbk=gNtMcbWBz1AeV6giQ5gPUrKLJPDFJsilotaoYPxr-Bg&sid=83185a2743&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20YA
