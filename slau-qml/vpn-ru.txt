@@ -1,1 +1,1 @@
-vless://b7675c4a-b148-4b02-9cfe-3275e4fee305@84.54.59.12:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA%20cloud.ru%20%E2%80%94%20%2335
+vless://b7675c4a-b148-4b02-9cfe-3275e4fee305@84.54.59.12:443?encryption=none&security=reality&type=tcp&sni=sellflow.org&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
