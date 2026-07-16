@@ -1,1 +1,1 @@
-vless://6cd5e8d2-3f2f-46dc-9fe8-943ee0c5e47e@84.38.186.105:446?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=o1VQJCk-MnB5crwv2LP7lBWt9y_gezX_iH46AcS0wAI&sid=c226283c4de5b1ad&fp=firefox#[383ms Норвегия NO 🇳🇴 @vlesstrojan]%20t.me%2Frjsxrd
+vless://6cd5e8d2-3f2f-46dc-9fe8-943ee0c5e47e@84.38.186.105:446?type=tcp&security=reality&flow=xtls-rprx-vision&encryption=none&sni=ads.x5.ru&pbk=o1VQJCk-MnB5crwv2LP7lBWt9y_gezX_iH46AcS0wAI&sid=c226283c4de5b1ad&fp=firefox#[375ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
