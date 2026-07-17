@@ -1,1 +1,1 @@
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&security=reality&sid=6ba85179e30d4fc2&sni=statusdetector404.ru&type=tcp#🇱🇹 Литва 4 Uab Cherry Servers%20t.me%2Frjsxrd
+vless://6cd5e8d2-3f2f-46dc-9fe8-943ee0c5e47e@84.38.186.105:2087?encryption=none&fp=firefox&pbk=o1VQJCk-MnB5crwv2LP7lBWt9y_gezX_iH46AcS0wAI&security=reality&serviceName=grpc&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=grpc#🇷🇺 Россия 141 JSC Selectel%20t.me%2Frjsxrd
